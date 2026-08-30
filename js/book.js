@@ -88,6 +88,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="panel-kicker">${escapeHtml(latest.category)} · 第 ${latest.rank} 名</span>
                     <h1>${escapeHtml(book.title)}</h1>
                     <p class="detail-author">作者：${escapeHtml(book.author || '未知')}</p>
+                    <div class="detail-tags">
+                        ${book.category ? `<span class="book-tag">${escapeHtml(String(book.category).replace(/\s+/g, '·'))}</span>` : ''}
+                        ${book.status ? `<span class="book-tag ${book.status === '已完结' ? 'status-done' : 'status-ongoing'}">${escapeHtml(book.status)}</span>` : ''}
+                        ${book.word_count ? `<span class="book-tag">${escapeHtml(book.word_count)}</span>` : ''}
+                    </div>
                     <div class="detail-stats">
                         <span><strong>${escapeHtml(latest.readsLabel)}</strong><small>当前热度</small></span>
                         <span><strong>${escapeHtml(formatReads(maxReads))}</strong><small>近30日峰值</small></span>

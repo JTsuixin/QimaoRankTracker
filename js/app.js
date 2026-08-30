@@ -474,6 +474,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 ? `<div class="book-cover"><img src="${book.cover}" alt="${escapeAttr(book.title)}" loading="lazy"></div>`
                 : `<div class="book-cover"><div class="no-cover">暂无封面</div></div>`;
 
+            // 信息标签：题材 / 连载状态 / 字数
+            const tagHtml = [];
+            if (book.category) {
+                tagHtml.push(`<span class="book-tag">${escapeHtml(book.category.replace(/\s+/g, '·'))}</span>`);
+            }
+            if (book.status) {
+                const statusCls = book.status === '已完结' ? 'status-done' : 'status-ongoing';
+                tagHtml.push(`<span class="book-tag ${statusCls}">${escapeHtml(book.status)}</span>`);
+            }
+            if (book.word_count) {
+                tagHtml.push(`<span class="book-tag">${escapeHtml(book.word_count)}</span>`);
+            }
+            const tagsHtml = tagHtml.length ? `<div class="book-tags">${tagHtml.join('')}</div>` : '';
+            const updatedTip = book.updated_at ? `
+最近更新：${book.updated_at}` : '';
+            card.title = `${book.title} · ${book.author}${updatedTip}`;
+
             card.innerHTML = `
                 <span class="book-rank ${rankCls}">${rank}</span>
                 ${changeHtml}
@@ -482,8 +499,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     <h3 class="book-title" title="${escapeAttr(book.title)}">${escapeHtml(book.title)}</h3>
                     <div class="book-meta">
                         <span class="book-author">${escapeHtml(book.author)}</span>
-                        <span class="book-reads">${escapeHtml(book.reads)}</span>
+                        <span class="book-reads" title="七猫热度值"><em class="reads-unit-label">热度</em>${escapeHtml(book.reads)}</span>
                     </div>
+                    ${tagsHtml}
                     <p class="book-intro">${escapeHtml(book.intro)}</p>
                     <button class="book-copy-btn" type="button">复制信息</button>
                 </div>

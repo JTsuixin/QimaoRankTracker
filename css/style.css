@@ -1816,3 +1816,49 @@ input:focus-visible {
         border-radius: var(--radius-lg);
     }
 }
+
+
+/* ---------- 卡片热度标注与信息标签 ---------- */
+.book-reads .reads-unit-label {
+    margin-right: 4px;
+    font-family: var(--font-body);
+    font-style: normal;
+    font-weight: 600;
+    opacity: 0.72;
+}
+
+.book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.book-tag {
+    padding: 2px 8px;
+    border: 1px solid var(--border-soft);
+    border-radius: var(--radius-pill);
+    background: var(--surface-soft);
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    line-height: 1.6;
+    white-space: nowrap;
+}
+
+.book-tag.status-ongoing {
+    border-color: transparent;
+    background: var(--amber-soft);
+    color: var(--amber);
+}
+
+.book-tag.status-done {
+    border-color: transparent;
+    background: var(--info-soft);
+    color: var(--info);
+}
+
+.detail-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 2px;
+}
