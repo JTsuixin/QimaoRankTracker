@@ -1,0 +1,86 @@
+name: Daily Qimao Rank Scraper
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+on:
+  schedule:
+    # 每天 UTC 00:47 (北京时间 08:47) 触发，与番茄榜抓取时间错开
+    - cron: '47 0 * * *'
+  workflow_dispatch: # 允许手动在界面上点击 Run workflow
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-22.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Check if today's data exists
+      id: check_data
+      run: |
+        TODAY=$(date -u +"%Y%m%d")
+        FILE="data/qimao_ranks_${TODAY}.json"
+        if [ -f "$FILE" ]; then
+          echo "exists=true" >> $GITHUB_OUTPUT
+          echo "✅ 今日数据已存在: $FILE，跳过爬取"
+        else
+          echo "exists=false" >> $GITHUB_OUTPUT
+          echo "📭 今日数据不存在，将执行爬取"
+        fi
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Scraper
+      if: steps.check_data.outputs.exists == 'false'
+      run: python scrape_qimao_ranks.py
+
+    - name: Build Latest Data with AI Summary
+      run: pip install openai && python scripts/build_qimao.py
+      env:
+        API_BASE_URL: ${{ secrets.API_BASE_URL }}
+        API_KEY: ${{ secrets.API_KEY }}
+        API_MODEL: ${{ secrets.API_MODEL }}
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "[Auto] Update Qimao daily ranks"
+        file_pattern: data api
+        branch: main
+
+    # ---- Deploy to GitHub Pages ----
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+      with:
+        enablement: true
+
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.'
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

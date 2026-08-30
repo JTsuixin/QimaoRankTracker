@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-30",
+  "prev_date": "",
+  "types": [
+    {
+      "type": "all",
+      "url": "api/lastest/all.json",
+      "category_count": 8,
+      "book_count": 160
+    },
+    {
+      "type": "男生新书榜",
+      "url": "api/lastest/%E7%94%B7%E7%94%9F%E6%96%B0%E4%B9%A6%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "男生大热榜",
+      "url": "api/lastest/%E7%94%B7%E7%94%9F%E5%A4%A7%E7%83%AD%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "男生完结榜",
+      "url": "api/lastest/%E7%94%B7%E7%94%9F%E5%AE%8C%E7%BB%93%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "男生收藏榜",
+      "url": "api/lastest/%E7%94%B7%E7%94%9F%E6%94%B6%E8%97%8F%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "女生新书榜",
+      "url": "api/lastest/%E5%A5%B3%E7%94%9F%E6%96%B0%E4%B9%A6%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "女生大热榜",
+      "url": "api/lastest/%E5%A5%B3%E7%94%9F%E5%A4%A7%E7%83%AD%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "女生完结榜",
+      "url": "api/lastest/%E5%A5%B3%E7%94%9F%E5%AE%8C%E7%BB%93%E6%A6%9C.json",
+      "book_count": 20
+    },
+    {
+      "type": "女生收藏榜",
+      "url": "api/lastest/%E5%A5%B3%E7%94%9F%E6%94%B6%E8%97%8F%E6%A6%9C.json",
+      "book_count": 20
+    }
+  ]
+}
