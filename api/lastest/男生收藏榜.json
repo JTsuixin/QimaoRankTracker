@@ -1,7 +1,7 @@
 {
   "type": "男生收藏榜",
-  "date": "2026-08-30",
-  "prev_date": "",
+  "date": "2026-08-31",
+  "prev_date": "2026-08-30",
   "category": {
     "name": "男生收藏榜",
     "trend": {
@@ -12,7 +12,7 @@
       "top_risers": [],
       "top_fallers": [],
       "reads_growth": [],
-      "summary": "首日数据，暂无趋势对比。"
+      "summary": "榜单无明显变动。"
     },
     "books": [
       {
@@ -24,8 +24,8 @@
         "url": "https://www.qimao.com/shuku/195958/",
         "category": "都市 都市高武",
         "status": "连载中",
-        "word_count": "901.62万字",
-        "updated_at": "2026-08-30 00:01:31",
+        "word_count": "902.03万字",
+        "updated_at": "2026-08-30 22:21:28",
         "rank_tag": "蝉联榜首"
       },
       {
@@ -145,8 +145,8 @@
         "url": "https://www.qimao.com/shuku/149769/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "1375.76万字",
-        "updated_at": "2026-08-30 00:11:37"
+        "word_count": "1376.76万字",
+        "updated_at": "2026-08-31 00:57:34"
       },
       {
         "title": "吞噬古帝",
@@ -157,8 +157,8 @@
         "url": "https://www.qimao.com/shuku/213092/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "1392.43万字",
-        "updated_at": "2026-08-30 08:50:46"
+        "word_count": "1393.04万字",
+        "updated_at": "2026-08-31 08:50:45"
       },
       {
         "title": "我能采集万物",
@@ -229,8 +229,8 @@
         "url": "https://www.qimao.com/shuku/1761978/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "750.22万字",
-        "updated_at": "2026-08-29 20:51:19"
+        "word_count": "750.92万字",
+        "updated_at": "2026-08-30 18:02:23"
       },
       {
         "title": "舔狗反派只想苟，女主不按套路走！",
@@ -241,8 +241,8 @@
         "url": "https://www.qimao.com/shuku/1710753/",
         "category": "都市 都市高手",
         "status": "连载中",
-        "word_count": "623.43万字",
-        "updated_at": "2026-08-29 23:17:19"
+        "word_count": "623.86万字",
+        "updated_at": "2026-08-30 22:27:19"
       },
       {
         "title": "进化之从蚂蚁开始",
@@ -269,7 +269,7 @@
         "top_risers": [],
         "top_fallers": [],
         "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
+        "summary": "榜单无明显变动。"
       },
       "books": [
         {
@@ -281,8 +281,8 @@
           "url": "https://www.qimao.com/shuku/195958/",
           "category": "都市 都市高武",
           "status": "连载中",
-          "word_count": "901.62万字",
-          "updated_at": "2026-08-30 00:01:31",
+          "word_count": "902.03万字",
+          "updated_at": "2026-08-30 22:21:28",
           "rank_tag": "蝉联榜首"
         },
         {
@@ -402,8 +402,8 @@
           "url": "https://www.qimao.com/shuku/149769/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "1375.76万字",
-          "updated_at": "2026-08-30 00:11:37"
+          "word_count": "1376.76万字",
+          "updated_at": "2026-08-31 00:57:34"
         },
         {
           "title": "吞噬古帝",
@@ -414,8 +414,8 @@
           "url": "https://www.qimao.com/shuku/213092/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "1392.43万字",
-          "updated_at": "2026-08-30 08:50:46"
+          "word_count": "1393.04万字",
+          "updated_at": "2026-08-31 08:50:45"
         },
         {
           "title": "我能采集万物",
@@ -486,8 +486,8 @@
           "url": "https://www.qimao.com/shuku/1761978/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "750.22万字",
-          "updated_at": "2026-08-29 20:51:19"
+          "word_count": "750.92万字",
+          "updated_at": "2026-08-30 18:02:23"
         },
         {
           "title": "舔狗反派只想苟，女主不按套路走！",
@@ -498,8 +498,8 @@
           "url": "https://www.qimao.com/shuku/1710753/",
           "category": "都市 都市高手",
           "status": "连载中",
-          "word_count": "623.43万字",
-          "updated_at": "2026-08-29 23:17:19"
+          "word_count": "623.86万字",
+          "updated_at": "2026-08-30 22:27:19"
         },
         {
           "title": "进化之从蚂蚁开始",

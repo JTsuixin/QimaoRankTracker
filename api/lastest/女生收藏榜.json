@@ -1,7 +1,7 @@
 {
   "type": "女生收藏榜",
-  "date": "2026-08-30",
-  "prev_date": "",
+  "date": "2026-08-31",
+  "prev_date": "2026-08-30",
   "category": {
     "name": "女生收藏榜",
     "trend": {
@@ -12,7 +12,7 @@
       "top_risers": [],
       "top_fallers": [],
       "reads_growth": [],
-      "summary": "首日数据，暂无趋势对比。"
+      "summary": "榜单无明显变动。"
     },
     "books": [
       {
@@ -61,8 +61,8 @@
         "url": "https://www.qimao.com/shuku/222767/",
         "category": "现代言情 总裁豪门",
         "status": "连载中",
-        "word_count": "912.39万字",
-        "updated_at": "2026-08-30 08:27:26"
+        "word_count": "912.74万字",
+        "updated_at": "2026-08-31 09:07:26"
       },
       {
         "title": "夫人总想气我",
@@ -217,8 +217,8 @@
         "url": "https://www.qimao.com/shuku/1803283/",
         "category": "古代言情 宫闱宅斗",
         "status": "连载中",
-        "word_count": "521.33万字",
-        "updated_at": "2026-08-29 23:51:19"
+        "word_count": "521.94万字",
+        "updated_at": "2026-08-30 23:47:19"
       },
       {
         "title": "大佬总想跟我抢儿砸",
@@ -269,7 +269,7 @@
         "top_risers": [],
         "top_fallers": [],
         "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
+        "summary": "榜单无明显变动。"
       },
       "books": [
         {
@@ -318,8 +318,8 @@
           "url": "https://www.qimao.com/shuku/222767/",
           "category": "现代言情 总裁豪门",
           "status": "连载中",
-          "word_count": "912.39万字",
-          "updated_at": "2026-08-30 08:27:26"
+          "word_count": "912.74万字",
+          "updated_at": "2026-08-31 09:07:26"
         },
         {
           "title": "夫人总想气我",
@@ -474,8 +474,8 @@
           "url": "https://www.qimao.com/shuku/1803283/",
           "category": "古代言情 宫闱宅斗",
           "status": "连载中",
-          "word_count": "521.33万字",
-          "updated_at": "2026-08-29 23:51:19"
+          "word_count": "521.94万字",
+          "updated_at": "2026-08-30 23:47:19"
         },
         {
           "title": "大佬总想跟我抢儿砸",
