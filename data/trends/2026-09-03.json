@@ -1,0 +1,337 @@
+{
+  "date": "2026-09-03",
+  "prev_date": "2026-09-02",
+  "trends": {
+    "男生新书榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "本王只想就藩，皇兄竟逼我造反",
+          "change": "+4"
+        },
+        {
+          "title": "我一人一刀，横扫边军",
+          "change": "+1"
+        },
+        {
+          "title": "重生八零：赶海捞金，我娇养俏前妻",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "高武严父，永远比儿子高五个境界",
+          "change": "-4"
+        },
+        {
+          "title": "九帝塔",
+          "change": "-2"
+        },
+        {
+          "title": "爷爷托梦后，我靠戒指掌控万界",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "本王只想就藩，皇兄竟逼我造反",
+          "growth": "+2.8万"
+        },
+        {
+          "title": "快老死了，圣女上门赐仙缘",
+          "growth": "+1.0万"
+        },
+        {
+          "title": "重生八零：赶海捞金，我娇养俏前妻",
+          "growth": "+8000"
+        }
+      ],
+      "summary": "《本王只想就藩，皇兄竟逼我造反》排名上升+4位；《本王只想就藩，皇兄竟逼我造反》热度+2.8万。"
+    },
+    "男生大热榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "吞噬九重天",
+          "change": "+3"
+        },
+        {
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "change": "+1"
+        },
+        {
+          "title": "傲世潜龙",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "边军悍卒",
+          "change": "-2"
+        },
+        {
+          "title": "大周第一武夫",
+          "change": "-1"
+        },
+        {
+          "title": "混沌塔",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "吞噬九重天",
+          "growth": "+2.3万"
+        },
+        {
+          "title": "九阴九阳",
+          "growth": "+4000"
+        },
+        {
+          "title": "警报！真龙出狱！",
+          "growth": "+3000"
+        }
+      ],
+      "summary": "《吞噬九重天》排名上升+3位；《吞噬九重天》热度+2.3万。"
+    },
+    "男生完结榜": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "极品女神赖上我"
+      ],
+      "dropped_books": [
+        {
+          "title": "神医出狱",
+          "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "玲珑塔",
+          "change": "+6"
+        },
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "噬神鼎",
+          "change": "-5"
+        },
+        {
+          "title": "我非池中物",
+          "change": "-4"
+        },
+        {
+          "title": "重生2000：从追求青涩校花同桌开始",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "玲珑塔",
+          "growth": "+2.3万"
+        },
+        {
+          "title": "小司机的美女总裁老婆",
+          "growth": "+7000"
+        },
+        {
+          "title": "打到北极圈了，你让我继承皇位？",
+          "growth": "+4000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《神医出狱》）；《玲珑塔》排名上升+6位；《玲珑塔》热度+2.3万。"
+    },
+    "男生收藏榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "榜单无明显变动。"
+    },
+    "女生新书榜": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "本侍卫是娇花"
+      ],
+      "dropped_books": [
+        {
+          "title": "霍先生，上位别太急",
+          "intro": "假婚五年，沈星挽受尽冷漠算计，女儿被害死，她果断抽身离开。\r\n却被渣男警告威胁：“乖乖给我当情人，女儿没了可以再生。”\r\n为复仇，她主动勾引渣男好兄弟。\r\n一场利用，她心有所求，他图谋已久。\r\n从此她"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "春闺小寡妇",
+          "change": "+5"
+        },
+        {
+          "title": "她去父留子后，裴总失控跪下了",
+          "change": "+2"
+        },
+        {
+          "title": "夺她入帐，惹上疯批权臣逃不掉",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "姻缘被抢，重生后高冷老公为她撑腰",
+          "change": "-2"
+        },
+        {
+          "title": "七零，咸鱼假千金带空间下乡躺赢",
+          "change": "-2"
+        },
+        {
+          "title": "余生高嫁",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "夺她入帐，惹上疯批权臣逃不掉",
+          "growth": "+1.0万"
+        },
+        {
+          "title": "春闺小寡妇",
+          "growth": "+9000"
+        },
+        {
+          "title": "侯府来了个小阎王，满朝权贵争又抢",
+          "growth": "+6000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《霍先生，上位别太急》）；《春闺小寡妇》排名上升+5位；《夺她入帐，惹上疯批权臣逃不掉》热度+1.0万。"
+    },
+    "女生大热榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "凰宫梦",
+          "change": "+3"
+        },
+        {
+          "title": "解春衫",
+          "change": "+2"
+        },
+        {
+          "title": "凤池生春",
+          "change": "+2"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "薄总，婚后请节制！",
+          "change": "-7"
+        },
+        {
+          "title": "八年冷淡你提离婚，我签字你疯什么",
+          "change": "-2"
+        },
+        {
+          "title": "渣夫别跪了，夫人嫁顶级大佬啦",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "盛总，太太让您签的是去父留子协议",
+          "growth": "+1.3万"
+        },
+        {
+          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+          "growth": "+9000"
+        },
+        {
+          "title": "解春衫",
+          "growth": "+8000"
+        }
+      ],
+      "summary": "《凰宫梦》排名上升+3位；《盛总，太太让您签的是去父留子协议》热度+1.3万。"
+    },
+    "女生完结榜": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "七零，易孕娇妻被绝嗣京少宠哭了"
+      ],
+      "dropped_books": [
+        {
+          "title": "重生六零：娇娇美人搬空家产下乡了",
+          "intro": "【年代+虐渣+空间+搬空+养崽+爽文】\r\n明艳动人却绝嗣的资本家大小姐+基因强大的的硬汉\r\n（避雷：宝子们，这是一本微群像年代文，有女主好友的剧情线哦~）\r\n海城人都知道，赫赫有名的明艳美人资本家大小"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "诱情染指，疯批宠娇入怀",
+          "change": "+3"
+        },
+        {
+          "title": "六年后，我携四个幼崽炸翻前夫家",
+          "change": "+1"
+        },
+        {
+          "title": "婚后上瘾",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "第一瞳术师",
+          "change": "-1"
+        },
+        {
+          "title": "不务正夜",
+          "change": "-1"
+        },
+        {
+          "title": "第一凤女",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "诱情染指，疯批宠娇入怀",
+          "growth": "+3.4万"
+        },
+        {
+          "title": "解春衫",
+          "growth": "+8000"
+        },
+        {
+          "title": "第五年重逢，驰先生再度失控",
+          "growth": "+7000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《重生六零：娇娇美人搬空家产下乡了》）；《诱情染指，疯批宠娇入怀》排名上升+3位；《诱情染指，疯批宠娇入怀》热度+3.4万。"
+    },
+    "女生收藏榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "榜单无明显变动。"
+    }
+  }
+}
