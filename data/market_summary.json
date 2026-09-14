@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-13",
-  "prev_date": "2026-09-12",
+  "date": "2026-09-14",
+  "prev_date": "2026-09-13",
   "periods": {
     "7": {
       "period": "近 7 日",
       "source": "rule",
-      "summary": "近 7 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、女生新书榜 的新增热度更集中；新书题材上 穿越、重生、追妻、先婚后爱、总裁、嫡女 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 7 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、女生新书榜 的新增热度更集中；新书题材上 穿越、重生、追妻、先婚后爱、总裁、嫡女 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 7 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、女生完结榜 的新增热度更集中；新书题材上 重生、系统、穿越、嫡女、年代、战神 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 7 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、女生完结榜 的新增热度更集中；新书题材上 重生、系统、穿越、嫡女、年代、战神 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "女生榜单",
-          "score": 1597000,
+          "score": 1554000,
           "new_count": 31,
           "dropped_count": 31,
           "read_count": 63,
-          "read_growth_total": 1597000.0,
+          "read_growth_total": 1554000.0,
           "active_days": 21,
           "lead_category": "女生大热榜",
           "categories": [
@@ -26,11 +26,11 @@
         },
         {
           "name": "男生榜单",
-          "score": 1113000,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 1125000,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 63,
-          "read_growth_total": 1113000.0,
+          "read_growth_total": 1125000.0,
           "active_days": 21,
           "lead_category": "男生大热榜",
           "categories": [
@@ -44,128 +44,128 @@
       "hot_types": [
         {
           "name": "女生大热榜",
-          "score": 698000,
+          "score": 670000,
           "new_count": 5,
           "dropped_count": 5,
           "read_count": 21,
-          "read_growth_total": 698000.0,
+          "read_growth_total": 670000.0,
           "active_days": 7
         },
         {
           "name": "男生大热榜",
-          "score": 517000,
-          "new_count": 4,
-          "dropped_count": 4,
+          "score": 568000,
+          "new_count": 2,
+          "dropped_count": 2,
           "read_count": 21,
-          "read_growth_total": 517000.0,
-          "active_days": 7
-        },
-        {
-          "name": "女生新书榜",
-          "score": 451000,
-          "new_count": 12,
-          "dropped_count": 12,
-          "read_count": 21,
-          "read_growth_total": 451000.0,
+          "read_growth_total": 568000.0,
           "active_days": 7
         },
         {
           "name": "女生完结榜",
-          "score": 448000,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 443000,
+          "new_count": 15,
+          "dropped_count": 15,
           "read_count": 21,
-          "read_growth_total": 448000.0,
+          "read_growth_total": 443000.0,
+          "active_days": 7
+        },
+        {
+          "name": "女生新书榜",
+          "score": 441000,
+          "new_count": 11,
+          "dropped_count": 11,
+          "read_count": 21,
+          "read_growth_total": 441000.0,
           "active_days": 7
         },
         {
           "name": "男生新书榜",
-          "score": 396000,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 359000,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
-          "read_growth_total": 396000.0,
+          "read_growth_total": 359000.0,
           "active_days": 7
         },
         {
           "name": "男生完结榜",
-          "score": 200000,
+          "score": 198000,
           "new_count": 5,
           "dropped_count": 5,
           "read_count": 21,
-          "read_growth_total": 200000.0,
+          "read_growth_total": 198000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
-          "name": "穿越",
-          "count": 10,
-          "category_count": 3
-        },
-        {
           "name": "重生",
-          "count": 8,
-          "category_count": 4
-        },
-        {
-          "name": "追妻",
-          "count": 4,
-          "category_count": 3
-        },
-        {
-          "name": "先婚后爱",
-          "count": 4,
-          "category_count": 3
-        },
-        {
-          "name": "总裁",
-          "count": 3,
-          "category_count": 3
-        },
-        {
-          "name": "嫡女",
-          "count": 3,
-          "category_count": 2
-        },
-        {
-          "name": "长生",
-          "count": 3,
-          "category_count": 2
+          "count": 13,
+          "category_count": 5
         },
         {
           "name": "系统",
-          "count": 2,
-          "category_count": 1
+          "count": 5,
+          "category_count": 3
         },
         {
-          "name": "赘婿",
-          "count": 1,
-          "category_count": 1
+          "name": "穿越",
+          "count": 5,
+          "category_count": 2
         },
         {
-          "name": "打脸",
-          "count": 1,
+          "name": "嫡女",
+          "count": 4,
+          "category_count": 2
+        },
+        {
+          "name": "年代",
+          "count": 4,
+          "category_count": 2
+        },
+        {
+          "name": "战神",
+          "count": 3,
+          "category_count": 2
+        },
+        {
+          "name": "追妻",
+          "count": 3,
+          "category_count": 2
+        },
+        {
+          "name": "豪门",
+          "count": 3,
+          "category_count": 2
+        },
+        {
+          "name": "先婚后爱",
+          "count": 3,
+          "category_count": 2
+        },
+        {
+          "name": "种田",
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
+          "count": 2,
+          "category_count": 2
         },
         {
-          "name": "闪婚",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "豪门",
-          "count": 1,
-          "category_count": 1
+          "name": "总裁",
+          "count": 2,
+          "category_count": 2
         },
         {
           "name": "七零",
-          "count": 1,
+          "count": 2,
+          "category_count": 2
+        },
+        {
+          "name": "真假千金",
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -173,17 +173,17 @@
     "14": {
       "period": "近 14 日",
       "source": "rule",
-      "summary": "近 14 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、追妻、系统、先婚后爱、总裁 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 14 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、追妻、系统、先婚后爱、总裁 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 14 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、系统、年代、追妻、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 14 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、系统、年代、追妻、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "女生榜单",
-          "score": 2566000,
-          "new_count": 57,
-          "dropped_count": 57,
-          "read_count": 117,
-          "read_growth_total": 2566000.0,
-          "active_days": 39,
+          "score": 2666000,
+          "new_count": 61,
+          "dropped_count": 61,
+          "read_count": 126,
+          "read_growth_total": 2666000.0,
+          "active_days": 42,
           "lead_category": "女生大热榜",
           "categories": [
             "女生新书榜",
@@ -194,12 +194,12 @@
         },
         {
           "name": "男生榜单",
-          "score": 1825000,
-          "new_count": 39,
-          "dropped_count": 39,
-          "read_count": 117,
-          "read_growth_total": 1825000.0,
-          "active_days": 39,
+          "score": 1996000,
+          "new_count": 41,
+          "dropped_count": 41,
+          "read_count": 126,
+          "read_growth_total": 1996000.0,
+          "active_days": 42,
           "lead_category": "男生大热榜",
           "categories": [
             "男生新书榜",
@@ -212,64 +212,64 @@
       "hot_types": [
         {
           "name": "女生大热榜",
-          "score": 1391000,
-          "new_count": 8,
-          "dropped_count": 8,
-          "read_count": 39,
-          "read_growth_total": 1391000.0,
-          "active_days": 13
+          "score": 1438000,
+          "new_count": 9,
+          "dropped_count": 9,
+          "read_count": 42,
+          "read_growth_total": 1438000.0,
+          "active_days": 14
         },
         {
           "name": "男生大热榜",
-          "score": 763000,
+          "score": 894000,
           "new_count": 8,
           "dropped_count": 8,
-          "read_count": 39,
-          "read_growth_total": 763000.0,
-          "active_days": 13
+          "read_count": 42,
+          "read_growth_total": 894000.0,
+          "active_days": 14
         },
         {
           "name": "男生新书榜",
-          "score": 661000,
-          "new_count": 20,
-          "dropped_count": 20,
-          "read_count": 39,
-          "read_growth_total": 661000.0,
-          "active_days": 13
+          "score": 688000,
+          "new_count": 21,
+          "dropped_count": 21,
+          "read_count": 42,
+          "read_growth_total": 688000.0,
+          "active_days": 14
         },
         {
           "name": "女生新书榜",
-          "score": 606000,
-          "new_count": 24,
-          "dropped_count": 24,
-          "read_count": 39,
-          "read_growth_total": 606000.0,
-          "active_days": 13
+          "score": 622000,
+          "new_count": 25,
+          "dropped_count": 25,
+          "read_count": 42,
+          "read_growth_total": 622000.0,
+          "active_days": 14
         },
         {
           "name": "女生完结榜",
-          "score": 569000,
-          "new_count": 25,
-          "dropped_count": 25,
-          "read_count": 39,
-          "read_growth_total": 569000.0,
-          "active_days": 13
+          "score": 606000,
+          "new_count": 27,
+          "dropped_count": 27,
+          "read_count": 42,
+          "read_growth_total": 606000.0,
+          "active_days": 14
         },
         {
           "name": "男生完结榜",
-          "score": 401000,
-          "new_count": 11,
-          "dropped_count": 11,
-          "read_count": 39,
-          "read_growth_total": 401000.0,
-          "active_days": 13
+          "score": 414000,
+          "new_count": 12,
+          "dropped_count": 12,
+          "read_count": 42,
+          "read_growth_total": 414000.0,
+          "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "重生",
-          "count": 15,
-          "category_count": 4
+          "count": 20,
+          "category_count": 5
         },
         {
           "name": "穿越",
@@ -277,12 +277,22 @@
           "category_count": 3
         },
         {
+          "name": "系统",
+          "count": 9,
+          "category_count": 3
+        },
+        {
+          "name": "年代",
+          "count": 6,
+          "category_count": 4
+        },
+        {
           "name": "追妻",
           "count": 6,
           "category_count": 3
         },
         {
-          "name": "系统",
+          "name": "甜宠",
           "count": 5,
           "category_count": 3
         },
@@ -297,17 +307,27 @@
           "category_count": 3
         },
         {
-          "name": "甜宠",
+          "name": "豪门",
           "count": 4,
-          "category_count": 3
+          "category_count": 2
         },
         {
           "name": "嫡女",
-          "count": 3,
+          "count": 4,
           "category_count": 2
         },
         {
           "name": "七零",
+          "count": 4,
+          "category_count": 2
+        },
+        {
+          "name": "团宠",
+          "count": 3,
+          "category_count": 3
+        },
+        {
+          "name": "战神",
           "count": 3,
           "category_count": 2
         },
@@ -315,43 +335,23 @@
           "name": "长生",
           "count": 3,
           "category_count": 2
-        },
-        {
-          "name": "团宠",
-          "count": 2,
-          "category_count": 2
-        },
-        {
-          "name": "年代",
-          "count": 2,
-          "category_count": 2
-        },
-        {
-          "name": "豪门",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "经商",
-          "count": 2,
-          "category_count": 1
         }
       ]
     },
     "30": {
       "period": "近 30 日",
       "source": "rule",
-      "summary": "近 30 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、追妻、系统、先婚后爱、总裁 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 30 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、追妻、系统、先婚后爱、总裁 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 30 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、系统、年代、追妻、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 30 日里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、系统、年代、追妻、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "女生榜单",
-          "score": 2566000,
-          "new_count": 57,
-          "dropped_count": 57,
-          "read_count": 117,
-          "read_growth_total": 2566000.0,
-          "active_days": 39,
+          "score": 2666000,
+          "new_count": 61,
+          "dropped_count": 61,
+          "read_count": 126,
+          "read_growth_total": 2666000.0,
+          "active_days": 42,
           "lead_category": "女生大热榜",
           "categories": [
             "女生新书榜",
@@ -362,12 +362,12 @@
         },
         {
           "name": "男生榜单",
-          "score": 1825000,
-          "new_count": 39,
-          "dropped_count": 39,
-          "read_count": 117,
-          "read_growth_total": 1825000.0,
-          "active_days": 39,
+          "score": 1996000,
+          "new_count": 41,
+          "dropped_count": 41,
+          "read_count": 126,
+          "read_growth_total": 1996000.0,
+          "active_days": 42,
           "lead_category": "男生大热榜",
           "categories": [
             "男生新书榜",
@@ -380,64 +380,64 @@
       "hot_types": [
         {
           "name": "女生大热榜",
-          "score": 1391000,
-          "new_count": 8,
-          "dropped_count": 8,
-          "read_count": 39,
-          "read_growth_total": 1391000.0,
-          "active_days": 13
+          "score": 1438000,
+          "new_count": 9,
+          "dropped_count": 9,
+          "read_count": 42,
+          "read_growth_total": 1438000.0,
+          "active_days": 14
         },
         {
           "name": "男生大热榜",
-          "score": 763000,
+          "score": 894000,
           "new_count": 8,
           "dropped_count": 8,
-          "read_count": 39,
-          "read_growth_total": 763000.0,
-          "active_days": 13
+          "read_count": 42,
+          "read_growth_total": 894000.0,
+          "active_days": 14
         },
         {
           "name": "男生新书榜",
-          "score": 661000,
-          "new_count": 20,
-          "dropped_count": 20,
-          "read_count": 39,
-          "read_growth_total": 661000.0,
-          "active_days": 13
+          "score": 688000,
+          "new_count": 21,
+          "dropped_count": 21,
+          "read_count": 42,
+          "read_growth_total": 688000.0,
+          "active_days": 14
         },
         {
           "name": "女生新书榜",
-          "score": 606000,
-          "new_count": 24,
-          "dropped_count": 24,
-          "read_count": 39,
-          "read_growth_total": 606000.0,
-          "active_days": 13
+          "score": 622000,
+          "new_count": 25,
+          "dropped_count": 25,
+          "read_count": 42,
+          "read_growth_total": 622000.0,
+          "active_days": 14
         },
         {
           "name": "女生完结榜",
-          "score": 569000,
-          "new_count": 25,
-          "dropped_count": 25,
-          "read_count": 39,
-          "read_growth_total": 569000.0,
-          "active_days": 13
+          "score": 606000,
+          "new_count": 27,
+          "dropped_count": 27,
+          "read_count": 42,
+          "read_growth_total": 606000.0,
+          "active_days": 14
         },
         {
           "name": "男生完结榜",
-          "score": 401000,
-          "new_count": 11,
-          "dropped_count": 11,
-          "read_count": 39,
-          "read_growth_total": 401000.0,
-          "active_days": 13
+          "score": 414000,
+          "new_count": 12,
+          "dropped_count": 12,
+          "read_count": 42,
+          "read_growth_total": 414000.0,
+          "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "重生",
-          "count": 15,
-          "category_count": 4
+          "count": 20,
+          "category_count": 5
         },
         {
           "name": "穿越",
@@ -445,12 +445,22 @@
           "category_count": 3
         },
         {
+          "name": "系统",
+          "count": 9,
+          "category_count": 3
+        },
+        {
+          "name": "年代",
+          "count": 6,
+          "category_count": 4
+        },
+        {
           "name": "追妻",
           "count": 6,
           "category_count": 3
         },
         {
-          "name": "系统",
+          "name": "甜宠",
           "count": 5,
           "category_count": 3
         },
@@ -465,17 +475,27 @@
           "category_count": 3
         },
         {
-          "name": "甜宠",
+          "name": "豪门",
           "count": 4,
-          "category_count": 3
+          "category_count": 2
         },
         {
           "name": "嫡女",
-          "count": 3,
+          "count": 4,
           "category_count": 2
         },
         {
           "name": "七零",
+          "count": 4,
+          "category_count": 2
+        },
+        {
+          "name": "团宠",
+          "count": 3,
+          "category_count": 3
+        },
+        {
+          "name": "战神",
           "count": 3,
           "category_count": 2
         },
@@ -483,43 +503,23 @@
           "name": "长生",
           "count": 3,
           "category_count": 2
-        },
-        {
-          "name": "团宠",
-          "count": 2,
-          "category_count": 2
-        },
-        {
-          "name": "年代",
-          "count": 2,
-          "category_count": 2
-        },
-        {
-          "name": "豪门",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "经商",
-          "count": 2,
-          "category_count": 1
         }
       ]
     },
     "all": {
       "period": "全部样本",
       "source": "rule",
-      "summary": "全部样本里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、追妻、系统、先婚后爱、总裁 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "全部样本里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、追妻、系统、先婚后爱、总裁 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "全部样本里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、系统、年代、追妻、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "全部样本里，女生榜单、男生榜单 的阅读增长更强，具体分类以 女生大热榜、男生大热榜、男生新书榜 的新增热度更集中；新书题材上 重生、穿越、系统、年代、追妻、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "女生榜单",
-          "score": 2566000,
-          "new_count": 57,
-          "dropped_count": 57,
-          "read_count": 117,
-          "read_growth_total": 2566000.0,
-          "active_days": 39,
+          "score": 2666000,
+          "new_count": 61,
+          "dropped_count": 61,
+          "read_count": 126,
+          "read_growth_total": 2666000.0,
+          "active_days": 42,
           "lead_category": "女生大热榜",
           "categories": [
             "女生新书榜",
@@ -530,12 +530,12 @@
         },
         {
           "name": "男生榜单",
-          "score": 1825000,
-          "new_count": 39,
-          "dropped_count": 39,
-          "read_count": 117,
-          "read_growth_total": 1825000.0,
-          "active_days": 39,
+          "score": 1996000,
+          "new_count": 41,
+          "dropped_count": 41,
+          "read_count": 126,
+          "read_growth_total": 1996000.0,
+          "active_days": 42,
           "lead_category": "男生大热榜",
           "categories": [
             "男生新书榜",
@@ -548,64 +548,64 @@
       "hot_types": [
         {
           "name": "女生大热榜",
-          "score": 1391000,
-          "new_count": 8,
-          "dropped_count": 8,
-          "read_count": 39,
-          "read_growth_total": 1391000.0,
-          "active_days": 13
+          "score": 1438000,
+          "new_count": 9,
+          "dropped_count": 9,
+          "read_count": 42,
+          "read_growth_total": 1438000.0,
+          "active_days": 14
         },
         {
           "name": "男生大热榜",
-          "score": 763000,
+          "score": 894000,
           "new_count": 8,
           "dropped_count": 8,
-          "read_count": 39,
-          "read_growth_total": 763000.0,
-          "active_days": 13
+          "read_count": 42,
+          "read_growth_total": 894000.0,
+          "active_days": 14
         },
         {
           "name": "男生新书榜",
-          "score": 661000,
-          "new_count": 20,
-          "dropped_count": 20,
-          "read_count": 39,
-          "read_growth_total": 661000.0,
-          "active_days": 13
+          "score": 688000,
+          "new_count": 21,
+          "dropped_count": 21,
+          "read_count": 42,
+          "read_growth_total": 688000.0,
+          "active_days": 14
         },
         {
           "name": "女生新书榜",
-          "score": 606000,
-          "new_count": 24,
-          "dropped_count": 24,
-          "read_count": 39,
-          "read_growth_total": 606000.0,
-          "active_days": 13
+          "score": 622000,
+          "new_count": 25,
+          "dropped_count": 25,
+          "read_count": 42,
+          "read_growth_total": 622000.0,
+          "active_days": 14
         },
         {
           "name": "女生完结榜",
-          "score": 569000,
-          "new_count": 25,
-          "dropped_count": 25,
-          "read_count": 39,
-          "read_growth_total": 569000.0,
-          "active_days": 13
+          "score": 606000,
+          "new_count": 27,
+          "dropped_count": 27,
+          "read_count": 42,
+          "read_growth_total": 606000.0,
+          "active_days": 14
         },
         {
           "name": "男生完结榜",
-          "score": 401000,
-          "new_count": 11,
-          "dropped_count": 11,
-          "read_count": 39,
-          "read_growth_total": 401000.0,
-          "active_days": 13
+          "score": 414000,
+          "new_count": 12,
+          "dropped_count": 12,
+          "read_count": 42,
+          "read_growth_total": 414000.0,
+          "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "重生",
-          "count": 15,
-          "category_count": 4
+          "count": 20,
+          "category_count": 5
         },
         {
           "name": "穿越",
@@ -613,12 +613,22 @@
           "category_count": 3
         },
         {
+          "name": "系统",
+          "count": 9,
+          "category_count": 3
+        },
+        {
+          "name": "年代",
+          "count": 6,
+          "category_count": 4
+        },
+        {
           "name": "追妻",
           "count": 6,
           "category_count": 3
         },
         {
-          "name": "系统",
+          "name": "甜宠",
           "count": 5,
           "category_count": 3
         },
@@ -633,17 +643,27 @@
           "category_count": 3
         },
         {
-          "name": "甜宠",
+          "name": "豪门",
           "count": 4,
-          "category_count": 3
+          "category_count": 2
         },
         {
           "name": "嫡女",
-          "count": 3,
+          "count": 4,
           "category_count": 2
         },
         {
           "name": "七零",
+          "count": 4,
+          "category_count": 2
+        },
+        {
+          "name": "团宠",
+          "count": 3,
+          "category_count": 3
+        },
+        {
+          "name": "战神",
           "count": 3,
           "category_count": 2
         },
@@ -651,26 +671,6 @@
           "name": "长生",
           "count": 3,
           "category_count": 2
-        },
-        {
-          "name": "团宠",
-          "count": 2,
-          "category_count": 2
-        },
-        {
-          "name": "年代",
-          "count": 2,
-          "category_count": 2
-        },
-        {
-          "name": "豪门",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "经商",
-          "count": 2,
-          "category_count": 1
         }
       ]
     }
