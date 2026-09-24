@@ -1,7 +1,7 @@
 {
   "type": "男生收藏榜",
-  "date": "2026-09-23",
-  "prev_date": "2026-09-22",
+  "date": "2026-09-24",
+  "prev_date": "2026-09-23",
   "category": {
     "name": "男生收藏榜",
     "trend": {
@@ -9,20 +9,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "全球灾变之末日游戏",
-          "change": "+1"
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "神级进化动物杀手团",
-          "change": "-1"
-        }
-      ],
+      "top_risers": [],
+      "top_fallers": [],
       "reads_growth": [],
-      "summary": "《全球灾变之末日游戏》排名上升+1位。"
+      "summary": "榜单无明显变动。"
     },
     "books": [
       {
@@ -34,8 +24,8 @@
         "url": "https://www.qimao.com/shuku/195958/",
         "category": "都市 都市高武",
         "status": "连载中",
-        "word_count": "913.14万字",
-        "updated_at": "2026-09-22 23:31:34",
+        "word_count": "913.76万字",
+        "updated_at": "2026-09-24 00:07:32",
         "rank_tag": "蝉联榜首"
       },
       {
@@ -155,8 +145,8 @@
         "url": "https://www.qimao.com/shuku/149769/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "1391.32万字",
-        "updated_at": "2026-09-22 23:47:35"
+        "word_count": "1391.8万字",
+        "updated_at": "2026-09-23 23:21:37"
       },
       {
         "title": "吞噬古帝",
@@ -167,8 +157,8 @@
         "url": "https://www.qimao.com/shuku/213092/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "1408.24万字",
-        "updated_at": "2026-09-23 08:51:41"
+        "word_count": "1408.94万字",
+        "updated_at": "2026-09-24 08:51:39"
       },
       {
         "title": "我能采集万物",
@@ -209,7 +199,7 @@
       {
         "title": "全球灾变之末日游戏",
         "author": "我爱吃猫片",
-        "reads": "1名",
+        "reads": "未知",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "url": "https://www.qimao.com/shuku/219542/",
@@ -221,15 +211,14 @@
       {
         "title": "神级进化动物杀手团",
         "author": "九把火",
-        "reads": "1名",
+        "reads": "未知",
         "intro": "林昊穿越到万族林立的玄幻世界，入赘赵府的姑爷。\n原以为就要这样憋屈的度过余生，却绑定了神级进化动物系统。\n“叮，您的苍蝇杀手已强化双爪，携带金属武器，锋利如刃！”\n“叮，您的宠物蜘蛛进化完毕，获得特殊技能，致命毒素！”\n……\n从此以后，世界上多了一支神秘的杀手组织，以动物为手下，杀人于无形之间。\n“很抱歉，我的士兵其实都是饲养员，动物才是真正的军团！”\n望着那恐慌的敌军，林昊淡淡的说道。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/206727_360x480.jpg?time=1638354611",
         "url": "https://www.qimao.com/shuku/208895/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "已完结",
         "word_count": "172.23万字",
-        "updated_at": "2022-04-13 16:05:06",
-        "change": "down"
+        "updated_at": "2022-04-13 16:05:06"
       },
       {
         "title": "葬神棺",
@@ -240,8 +229,8 @@
         "url": "https://www.qimao.com/shuku/1761978/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "766.96万字",
-        "updated_at": "2026-09-22 19:21:23"
+        "word_count": "767.71万字",
+        "updated_at": "2026-09-23 20:47:22"
       },
       {
         "title": "舔狗反派只想苟，女主不按套路走！",
@@ -252,8 +241,8 @@
         "url": "https://www.qimao.com/shuku/1710753/",
         "category": "都市 都市高手",
         "status": "连载中",
-        "word_count": "633.67万字",
-        "updated_at": "2026-09-22 20:12:19"
+        "word_count": "634.08万字",
+        "updated_at": "2026-09-23 22:27:20"
       },
       {
         "title": "进化之从蚂蚁开始",
@@ -277,20 +266,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "全球灾变之末日游戏",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "神级进化动物杀手团",
-            "change": "-1"
-          }
-        ],
+        "top_risers": [],
+        "top_fallers": [],
         "reads_growth": [],
-        "summary": "《全球灾变之末日游戏》排名上升+1位。"
+        "summary": "榜单无明显变动。"
       },
       "books": [
         {
@@ -302,8 +281,8 @@
           "url": "https://www.qimao.com/shuku/195958/",
           "category": "都市 都市高武",
           "status": "连载中",
-          "word_count": "913.14万字",
-          "updated_at": "2026-09-22 23:31:34",
+          "word_count": "913.76万字",
+          "updated_at": "2026-09-24 00:07:32",
           "rank_tag": "蝉联榜首"
         },
         {
@@ -423,8 +402,8 @@
           "url": "https://www.qimao.com/shuku/149769/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "1391.32万字",
-          "updated_at": "2026-09-22 23:47:35"
+          "word_count": "1391.8万字",
+          "updated_at": "2026-09-23 23:21:37"
         },
         {
           "title": "吞噬古帝",
@@ -435,8 +414,8 @@
           "url": "https://www.qimao.com/shuku/213092/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "1408.24万字",
-          "updated_at": "2026-09-23 08:51:41"
+          "word_count": "1408.94万字",
+          "updated_at": "2026-09-24 08:51:39"
         },
         {
           "title": "我能采集万物",
@@ -477,7 +456,7 @@
         {
           "title": "全球灾变之末日游戏",
           "author": "我爱吃猫片",
-          "reads": "1名",
+          "reads": "未知",
           "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "url": "https://www.qimao.com/shuku/219542/",
@@ -489,15 +468,14 @@
         {
           "title": "神级进化动物杀手团",
           "author": "九把火",
-          "reads": "1名",
+          "reads": "未知",
           "intro": "林昊穿越到万族林立的玄幻世界，入赘赵府的姑爷。\n原以为就要这样憋屈的度过余生，却绑定了神级进化动物系统。\n“叮，您的苍蝇杀手已强化双爪，携带金属武器，锋利如刃！”\n“叮，您的宠物蜘蛛进化完毕，获得特殊技能，致命毒素！”\n……\n从此以后，世界上多了一支神秘的杀手组织，以动物为手下，杀人于无形之间。\n“很抱歉，我的士兵其实都是饲养员，动物才是真正的军团！”\n望着那恐慌的敌军，林昊淡淡的说道。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/206727_360x480.jpg?time=1638354611",
           "url": "https://www.qimao.com/shuku/208895/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "已完结",
           "word_count": "172.23万字",
-          "updated_at": "2022-04-13 16:05:06",
-          "change": "down"
+          "updated_at": "2022-04-13 16:05:06"
         },
         {
           "title": "葬神棺",
@@ -508,8 +486,8 @@
           "url": "https://www.qimao.com/shuku/1761978/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "766.96万字",
-          "updated_at": "2026-09-22 19:21:23"
+          "word_count": "767.71万字",
+          "updated_at": "2026-09-23 20:47:22"
         },
         {
           "title": "舔狗反派只想苟，女主不按套路走！",
@@ -520,8 +498,8 @@
           "url": "https://www.qimao.com/shuku/1710753/",
           "category": "都市 都市高手",
           "status": "连载中",
-          "word_count": "633.67万字",
-          "updated_at": "2026-09-22 20:12:19"
+          "word_count": "634.08万字",
+          "updated_at": "2026-09-23 22:27:20"
         },
         {
           "title": "进化之从蚂蚁开始",
