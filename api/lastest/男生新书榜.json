@@ -1,154 +1,177 @@
 {
   "type": "男生新书榜",
-  "date": "2026-09-27",
-  "prev_date": "2026-09-26",
+  "date": "2026-09-28",
+  "prev_date": "2026-09-27",
   "category": {
     "name": "男生新书榜",
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
-        "重生57：开局傻子，白捡个漂亮媳妇",
-        "葬仙塔，葬天，葬地，葬众仙"
+        "罪妻识药，分家后我坐拥万顷良田"
       ],
       "dropped_books": [
         {
-          "title": "让你当个替身，你咋君临天下",
-          "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\r\n\r\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\r\n\r\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\r\n\r\n　　一开始"
-        },
-        {
-          "title": "重生70：一枪一个，狩猎人生",
-          "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\r\n陈远意外重生到1971的靠山屯，成了一个拉帮套\r\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\r\n谁也没想到，这个窝囊废扛起猎枪进了山！\r\n赶山猎兽，野猪狍子"
+          "title": "从拒绝美女总裁开始权势滔天",
+          "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\r\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\r\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……"
         }
       ],
       "top_risers": [
         {
-          "title": "乾坤造化诀",
-          "change": "+7"
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "change": "+11"
+        },
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "change": "+2"
         },
         {
           "title": "下山即无敌，美女总裁逼我去领证！",
-          "change": "+5"
-        },
-        {
-          "title": "恐怖复苏：离婚后，我不替她挡灾了",
-          "change": "+2"
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "斩佞，镇北，王天下！",
-          "change": "-1"
+          "title": "贱籍仵作，从摸尸开始炼成武神",
+          "change": "-3"
         },
         {
-          "title": "趁校花一贫如洗，忽悠她以身相许",
-          "change": "-1"
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "change": "-3"
         },
         {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "change": "-1"
+          "title": "聚宝仙炉",
+          "change": "-2"
         }
       ],
       "reads_growth": [
         {
-          "title": "恐怖复苏：离婚后，我不替她挡灾了",
-          "growth": "+2.0万"
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "growth": "+3.4万"
         },
         {
           "title": "乾坤造化诀",
-          "growth": "+1.3万"
+          "growth": "+1.0万"
         },
         {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "growth": "+6000"
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "growth": "+5000"
         }
       ],
-      "summary": "新增2本上榜；2本掉出（《让你当个替身，你咋君临天下》、《重生70：一枪一个，狩猎人生》）；《乾坤造化诀》排名上升+7位；《恐怖复苏：离婚后，我不替她挡灾了》热度+2.0万。"
+      "summary": "新增1本上榜；1本掉出（《从拒绝美女总裁开始权势滔天》）；《暴雪1962，绝美邻居上门求肉》排名上升+11位；《暴雪1962，绝美邻居上门求肉》热度+3.4万。"
     },
     "books": [
       {
         "title": "恐怖复苏：离婚后，我不替她挡灾了",
         "author": "东城芹菜",
-        "reads": "11.3万",
+        "reads": "10.8万",
         "intro": "秦序给妻子江紫当了五年牛马，换来的只有一句“你没本事”。\r\n离婚那天，他从镜子后抽出一张发黄的红纸，当她的面烧了。\r\n“你的命，归你自己了。”\r\n当晚，江紫家的楼道里多了一排湿脚印。\r\n而秦序推开一扇落灰五年的大门……\r\n“秦记旧物，开始接单。”\r\n从那天起，滨海的豪宅、银行、赌场与酒店，开始接连闹鬼。\r\n冷艳女总裁让他贴身压鬼，野狼山女王在死亡弯道抱紧他的腰，漂亮销售开着法拉利，陪他满城抢魂。\r\n而秦序抓鬼的规矩很简单。\r\n能打服就留下。\r\n打不服，就喂给手下。\r\n别人见鬼，只想逃命。\r\n秦序见鬼，却活动了一下布满尸斑的右手，笑得比鬼还兴奋。\r\n“可算找到你了。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12418653_360x480.jpg?time=1781768562",
         "url": "https://www.qimao.com/shuku/12418653/",
         "category": "奇闻异事 恐怖灵异",
         "status": "连载中",
-        "word_count": "37.11万字",
-        "updated_at": "2026-09-26 22:51:04"
+        "word_count": "37.77万字",
+        "updated_at": "2026-09-27 22:52:04",
+        "change": "down",
+        "rank_tag": "蝉联榜首"
       },
       {
         "title": "诗仙，诗圣，镇国公！",
         "author": "月出长安",
-        "reads": "10.0万",
+        "reads": "9.7万",
         "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\r\n继母陷害，亲爹驱逐。\r\n本来只想做点小生意，潇洒的过完这一生，没想到……\r\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\r\n贪官污吏的克星，武林江湖的霸主，四方异族最严厉的父亲。陈长安：这也是我。\r\n醒掌天下权，醉卧美人膝，从被扫地出门开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
         "url": "https://www.qimao.com/shuku/11834034/",
         "category": "历史 架空历史",
         "status": "连载中",
-        "word_count": "45.73万字",
-        "updated_at": "2026-09-27 11:57:04"
+        "word_count": "46.41万字",
+        "updated_at": "2026-09-28 11:37:04",
+        "change": "down"
       },
       {
         "title": "盗梦千年",
         "author": "咸鱼老白",
-        "reads": "8.0万",
+        "reads": "8.2万",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\r\n她是已故千年的剑仙，没有未来。\r\n一块双鱼佩，将相隔千年的两个将死之人相连。\r\n于是，她成了他最大的倚仗，他是她唯一的变数！\r\n他们以为自己在改写历史，却发现——\r\n他们，就是历史本身！\r\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
         "url": "https://www.qimao.com/shuku/12257385/",
         "category": "武侠仙侠 幻想修真",
         "status": "连载中",
-        "word_count": "48.57万字",
-        "updated_at": "2026-09-27 07:02:04"
+        "word_count": "48.98万字",
+        "updated_at": "2026-09-28 07:01:06"
       },
       {
         "title": "抱歉，我真的才高八斗",
         "author": "牛奶有点多",
-        "reads": "6.8万",
+        "reads": "6.9万",
         "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\r\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\r\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\r\n李安生：慌什么？不就是个殿试吗？\r\n经义？策论？诗词？张口就是千古名篇。\r\n李安生发现！\r\n这个世界有钱又有才，真的可以为所欲为。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1785924700",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1790567965",
         "url": "https://www.qimao.com/shuku/12985194/",
         "category": "历史 架空历史",
         "status": "连载中",
-        "word_count": "36.18万字",
-        "updated_at": "2026-09-27 12:02:07"
+        "word_count": "37.01万字",
+        "updated_at": "2026-09-28 12:07:06"
+      },
+      {
+        "title": "暴雪1962，绝美邻居上门求肉",
+        "author": "七日一夜",
+        "reads": "5.8万",
+        "intro": "一觉醒来，陈川重生回到1962的东北山村！\r\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\r\n临了还被打断了双腿，赶到桥洞子，活活饿死！\r\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
+        "url": "https://www.qimao.com/shuku/12972600/",
+        "category": "都市 都市生活",
+        "status": "连载中",
+        "word_count": "35.43万字",
+        "updated_at": "2026-09-27 21:29:04",
+        "rank_tag": "飙升11名"
       },
       {
         "title": "我想躺平当保安，女神非要来纠缠",
         "author": "我在丛中笑",
-        "reads": "4.9万",
+        "reads": "5.2万",
         "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\r\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\r\n想安静滴当个小保安，就这么难吗？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
         "url": "https://www.qimao.com/shuku/9999144/",
         "category": "都市 都市高手",
         "status": "连载中",
-        "word_count": "49.42万字",
-        "updated_at": "2026-09-27 00:26:26"
-      },
-      {
-        "title": "聚宝仙炉",
-        "author": "我没偷懒",
-        "reads": "4.2万",
-        "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "url": "https://www.qimao.com/shuku/12452187/",
-        "category": "武侠仙侠 幻想修真",
-        "status": "连载中",
-        "word_count": "48.59万字",
-        "updated_at": "2026-09-26 23:20:06"
+        "word_count": "49.86万字",
+        "updated_at": "2026-09-28 00:02:24"
       },
       {
         "title": "乾坤造化诀",
         "author": "凌慕雨",
-        "reads": "3.7万",
+        "reads": "4.7万",
         "intro": "我叫陈凡，一个外门杂役。\r\n宗主中了情毒，我只是好心救个人。\r\n谁知道，她竟然怀孕了。\r\n一夜之间，整个修仙界都在寻找那个让宗主珠胎暗结的男人。\r\n圣子拔剑，长老封山，仙门震怒。\r\n而我默默扫着地，听着所有人分析。\r\n“那个男人，至少也是大乘老祖！”\r\n我差点笑出声。\r\n有没有一种可能……\r\n那个野男人，就是我啊？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
         "url": "https://www.qimao.com/shuku/12897039/",
         "category": "武侠仙侠 幻想修真",
         "status": "连载中",
-        "word_count": "46.84万字",
-        "updated_at": "2026-09-27 00:52:03"
+        "word_count": "47.35万字",
+        "updated_at": "2026-09-28 00:52:03"
+      },
+      {
+        "title": "聚宝仙炉",
+        "author": "我没偷懒",
+        "reads": "4.3万",
+        "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
+        "url": "https://www.qimao.com/shuku/12452187/",
+        "category": "武侠仙侠 幻想修真",
+        "status": "连载中",
+        "word_count": "49.01万字",
+        "updated_at": "2026-09-27 21:16:03"
+      },
+      {
+        "title": "女子监狱五年，出狱即无敌",
+        "author": "提笔忘情",
+        "reads": "3.9万",
+        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\r\n\r\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\r\n\r\n萧尘非但不怒，反而仰天大笑应允。\r\n\r\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
+        "url": "https://www.qimao.com/shuku/12791886/",
+        "category": "都市 都市高武",
+        "status": "连载中",
+        "word_count": "42.91万字",
+        "updated_at": "2026-09-28 12:12:04"
       },
       {
         "title": "长生猎户，从形意拳到人间武圣！",
@@ -159,32 +182,32 @@
         "url": "https://www.qimao.com/shuku/12789207/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "44.98万字",
-        "updated_at": "2026-09-27 00:00:09"
-      },
-      {
-        "title": "女子监狱五年，出狱即无敌",
-        "author": "提笔忘情",
-        "reads": "3.6万",
-        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\r\n\r\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\r\n\r\n萧尘非但不怒，反而仰天大笑应允。\r\n\r\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "url": "https://www.qimao.com/shuku/12791886/",
-        "category": "都市 都市高武",
-        "status": "连载中",
-        "word_count": "42.09万字",
-        "updated_at": "2026-09-27 12:32:03"
+        "word_count": "45.59万字",
+        "updated_at": "2026-09-27 23:56:03"
       },
       {
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "author": "言龙",
-        "reads": "3.2万",
+        "reads": "3.6万",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\r\n秦战阳扭头就报名参军入伍！\r\n【叮！】\r\n【恭喜主人参军入伍，成功授衔！】\r\n【任务完成奖励：全属性+1！】\r\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
         "url": "https://www.qimao.com/shuku/12931542/",
         "category": "军事 现代军事",
         "status": "连载中",
-        "word_count": "45.4万字",
-        "updated_at": "2026-09-27 00:12:17"
+        "word_count": "46.02万字",
+        "updated_at": "2026-09-28 00:12:16"
+      },
+      {
+        "title": "趁校花一贫如洗，忽悠她以身相许",
+        "author": "不吃鱼肉",
+        "reads": "3.1万",
+        "intro": "重回2010年的大学城。\r\n这一年，未来的“最美女教授”还在奶茶店兼职。\r\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\r\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\r\n这一年，未来的商业女强人，还是个恋爱脑。\r\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\r\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
+        "url": "https://www.qimao.com/shuku/12896292/",
+        "category": "都市 热血校园",
+        "status": "连载中",
+        "word_count": "27.86万字",
+        "updated_at": "2026-09-28 09:48:02"
       },
       {
         "title": "斩佞，镇北，王天下！",
@@ -195,8 +218,20 @@
         "url": "https://www.qimao.com/shuku/12722883/",
         "category": "历史 架空历史",
         "status": "连载中",
-        "word_count": "46.91万字",
-        "updated_at": "2026-09-26 19:47:03"
+        "word_count": "47.54万字",
+        "updated_at": "2026-09-27 19:58:03"
+      },
+      {
+        "title": "下山即无敌，美女总裁逼我去领证！",
+        "author": "离原",
+        "reads": "2.9万",
+        "intro": "“昨晚…是你？”\r\n“美女，明明是你先闯进我房间，对我用强的……”\r\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\r\n从此，叶安走上了一条权势与美女相伴的道路。\r\n很猛很无敌！\r\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
+        "url": "https://www.qimao.com/shuku/12594795/",
+        "category": "都市 都市高手",
+        "status": "连载中",
+        "word_count": "41.11万字",
+        "updated_at": "2026-09-28 01:19:03"
       },
       {
         "title": "贱籍仵作，从摸尸开始炼成武神",
@@ -207,8 +242,9 @@
         "url": "https://www.qimao.com/shuku/12791520/",
         "category": "武侠仙侠 幻想修真",
         "status": "连载中",
-        "word_count": "46.86万字",
-        "updated_at": "2026-09-27 12:02:11"
+        "word_count": "47.57万字",
+        "updated_at": "2026-09-28 12:02:08",
+        "change": "down"
       },
       {
         "title": "重生七零资本家大少爷，开局被寡妇堵门",
@@ -219,44 +255,9 @@
         "url": "https://www.qimao.com/shuku/12779493/",
         "category": "都市 乡村生活",
         "status": "连载中",
-        "word_count": "45.79万字",
-        "updated_at": "2026-09-26 23:53:03"
-      },
-      {
-        "title": "趁校花一贫如洗，忽悠她以身相许",
-        "author": "不吃鱼肉",
-        "reads": "2.6万",
-        "intro": "重回2010年的大学城。\r\n这一年，未来的“最美女教授”还在奶茶店兼职。\r\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\r\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\r\n这一年，未来的商业女强人，还是个恋爱脑。\r\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\r\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "url": "https://www.qimao.com/shuku/12896292/",
-        "category": "都市 热血校园",
-        "status": "连载中",
-        "word_count": "27.38万字",
-        "updated_at": "2026-09-27 08:12:10"
-      },
-      {
-        "title": "下山即无敌，美女总裁逼我去领证！",
-        "author": "离原",
-        "reads": "2.6万",
-        "intro": "“昨晚…是你？”\r\n“美女，明明是你先闯进我房间，对我用强的……”\r\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\r\n从此，叶安走上了一条权势与美女相伴的道路。\r\n很猛很无敌！\r\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "url": "https://www.qimao.com/shuku/12594795/",
-        "category": "都市 都市高手",
-        "status": "连载中",
-        "word_count": "40.89万字",
-        "updated_at": "2026-09-27 08:39:03"
-      },
-      {
-        "title": "暴雪1962，绝美邻居上门求肉",
-        "author": "七日一夜",
-        "reads": "2.4万",
-        "intro": "一觉醒来，陈川重生回到1962的东北山村！\r\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\r\n临了还被打断了双腿，赶到桥洞子，活活饿死！\r\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "url": "https://www.qimao.com/shuku/12972600/",
-        "category": "都市 都市生活",
-        "status": "连载中",
-        "word_count": "34.73万字",
-        "updated_at": "2026-09-26 22:24:02"
+        "word_count": "46.42万字",
+        "updated_at": "2026-09-27 23:48:03",
+        "change": "down"
       },
       {
         "title": "重生57：开局傻子，白捡个漂亮媳妇",
@@ -267,33 +268,33 @@
         "url": "https://www.qimao.com/shuku/13118376/",
         "category": "都市 乡村生活",
         "status": "连载中",
-        "word_count": "28.11万字",
-        "updated_at": "2026-09-26 22:42:03"
+        "word_count": "28.72万字",
+        "updated_at": "2026-09-27 22:27:03",
+        "change": "down"
       },
       {
         "title": "下山第一天，逮个美女总裁暴力宠",
         "author": "文字画家",
-        "reads": "2.1万",
+        "reads": "2.2万",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\r\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\r\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\r\n当他展现逆天医术，无敌本领之时。\r\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
         "url": "https://www.qimao.com/shuku/13008696/",
         "category": "都市 都市高手",
         "status": "连载中",
-        "word_count": "24.72万字",
-        "updated_at": "2026-09-27 05:02:03",
-        "change": "down"
+        "word_count": "25.17万字",
+        "updated_at": "2026-09-28 05:02:02"
       },
       {
-        "title": "从拒绝美女总裁开始权势滔天",
-        "author": "风水本尊",
+        "title": "罪妻识药，分家后我坐拥万顷良田",
+        "author": "轻渡尘舟",
         "reads": "2.1万",
-        "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\r\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\r\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4238/12713682_360x480.jpg?time=1783391037",
-        "url": "https://www.qimao.com/shuku/12713682/",
-        "category": "都市 都市高手",
+        "intro": "分家那日，全村看石磊笑话。\r\n\r\n非要带着两个病秧子净身出户，放着家产不要，只为断亲！\r\n\r\n二叔骂他蠢，继祖母咒他饿死。\r\n\r\n没人知道，死对头强塞给他的罪妻，能辨百草，能识奇药。\r\n\r\n一株老山参换来五百两银子。\r\n\r\n半月后，青砖瓦房立起来，百亩良田雇人耕。\r\n\r\n石磊躺在摇椅上，笑看着媳妇渐丰的孕肚时。\r\n\r\n当初逼他净身出户的家人，堵着门，想让他认祖归宗……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4245/12732294_360x480.jpg?time=1783965539",
+        "url": "https://www.qimao.com/shuku/12732294/",
+        "category": "历史 架空历史",
         "status": "连载中",
-        "word_count": "49.76万字",
-        "updated_at": "2026-09-27 11:32:04"
+        "word_count": "45.58万字",
+        "updated_at": "2026-09-27 23:58:03"
       },
       {
         "title": "葬仙塔，葬天，葬地，葬众仙",
@@ -304,8 +305,9 @@
         "url": "https://www.qimao.com/shuku/12679578/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "连载中",
-        "word_count": "49.2万字",
-        "updated_at": "2026-09-26 20:02:04"
+        "word_count": "49.61万字",
+        "updated_at": "2026-09-27 20:02:04",
+        "change": "down"
       }
     ]
   },
@@ -313,150 +315,173 @@
     {
       "name": "男生新书榜",
       "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
+        "new_count": 1,
+        "dropped_count": 1,
         "new_books": [
-          "重生57：开局傻子，白捡个漂亮媳妇",
-          "葬仙塔，葬天，葬地，葬众仙"
+          "罪妻识药，分家后我坐拥万顷良田"
         ],
         "dropped_books": [
           {
-            "title": "让你当个替身，你咋君临天下",
-            "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\r\n\r\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\r\n\r\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\r\n\r\n　　一开始"
-          },
-          {
-            "title": "重生70：一枪一个，狩猎人生",
-            "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\r\n陈远意外重生到1971的靠山屯，成了一个拉帮套\r\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\r\n谁也没想到，这个窝囊废扛起猎枪进了山！\r\n赶山猎兽，野猪狍子"
+            "title": "从拒绝美女总裁开始权势滔天",
+            "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\r\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\r\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……"
           }
         ],
         "top_risers": [
           {
-            "title": "乾坤造化诀",
-            "change": "+7"
+            "title": "暴雪1962，绝美邻居上门求肉",
+            "change": "+11"
+          },
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "change": "+2"
           },
           {
             "title": "下山即无敌，美女总裁逼我去领证！",
-            "change": "+5"
-          },
-          {
-            "title": "恐怖复苏：离婚后，我不替她挡灾了",
-            "change": "+2"
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "斩佞，镇北，王天下！",
-            "change": "-1"
+            "title": "贱籍仵作，从摸尸开始炼成武神",
+            "change": "-3"
           },
           {
-            "title": "趁校花一贫如洗，忽悠她以身相许",
-            "change": "-1"
+            "title": "重生七零资本家大少爷，开局被寡妇堵门",
+            "change": "-3"
           },
           {
-            "title": "下山第一天，逮个美女总裁暴力宠",
-            "change": "-1"
+            "title": "聚宝仙炉",
+            "change": "-2"
           }
         ],
         "reads_growth": [
           {
-            "title": "恐怖复苏：离婚后，我不替她挡灾了",
-            "growth": "+2.0万"
+            "title": "暴雪1962，绝美邻居上门求肉",
+            "growth": "+3.4万"
           },
           {
             "title": "乾坤造化诀",
-            "growth": "+1.3万"
+            "growth": "+1.0万"
           },
           {
-            "title": "下山即无敌，美女总裁逼我去领证！",
-            "growth": "+6000"
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "growth": "+5000"
           }
         ],
-        "summary": "新增2本上榜；2本掉出（《让你当个替身，你咋君临天下》、《重生70：一枪一个，狩猎人生》）；《乾坤造化诀》排名上升+7位；《恐怖复苏：离婚后，我不替她挡灾了》热度+2.0万。"
+        "summary": "新增1本上榜；1本掉出（《从拒绝美女总裁开始权势滔天》）；《暴雪1962，绝美邻居上门求肉》排名上升+11位；《暴雪1962，绝美邻居上门求肉》热度+3.4万。"
       },
       "books": [
         {
           "title": "恐怖复苏：离婚后，我不替她挡灾了",
           "author": "东城芹菜",
-          "reads": "11.3万",
+          "reads": "10.8万",
           "intro": "秦序给妻子江紫当了五年牛马，换来的只有一句“你没本事”。\r\n离婚那天，他从镜子后抽出一张发黄的红纸，当她的面烧了。\r\n“你的命，归你自己了。”\r\n当晚，江紫家的楼道里多了一排湿脚印。\r\n而秦序推开一扇落灰五年的大门……\r\n“秦记旧物，开始接单。”\r\n从那天起，滨海的豪宅、银行、赌场与酒店，开始接连闹鬼。\r\n冷艳女总裁让他贴身压鬼，野狼山女王在死亡弯道抱紧他的腰，漂亮销售开着法拉利，陪他满城抢魂。\r\n而秦序抓鬼的规矩很简单。\r\n能打服就留下。\r\n打不服，就喂给手下。\r\n别人见鬼，只想逃命。\r\n秦序见鬼，却活动了一下布满尸斑的右手，笑得比鬼还兴奋。\r\n“可算找到你了。”",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12418653_360x480.jpg?time=1781768562",
           "url": "https://www.qimao.com/shuku/12418653/",
           "category": "奇闻异事 恐怖灵异",
           "status": "连载中",
-          "word_count": "37.11万字",
-          "updated_at": "2026-09-26 22:51:04"
+          "word_count": "37.77万字",
+          "updated_at": "2026-09-27 22:52:04",
+          "change": "down",
+          "rank_tag": "蝉联榜首"
         },
         {
           "title": "诗仙，诗圣，镇国公！",
           "author": "月出长安",
-          "reads": "10.0万",
+          "reads": "9.7万",
           "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\r\n继母陷害，亲爹驱逐。\r\n本来只想做点小生意，潇洒的过完这一生，没想到……\r\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\r\n贪官污吏的克星，武林江湖的霸主，四方异族最严厉的父亲。陈长安：这也是我。\r\n醒掌天下权，醉卧美人膝，从被扫地出门开始。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
           "url": "https://www.qimao.com/shuku/11834034/",
           "category": "历史 架空历史",
           "status": "连载中",
-          "word_count": "45.73万字",
-          "updated_at": "2026-09-27 11:57:04"
+          "word_count": "46.41万字",
+          "updated_at": "2026-09-28 11:37:04",
+          "change": "down"
         },
         {
           "title": "盗梦千年",
           "author": "咸鱼老白",
-          "reads": "8.0万",
+          "reads": "8.2万",
           "intro": "他是妖女圈养的炉鼎，朝不保夕。\r\n她是已故千年的剑仙，没有未来。\r\n一块双鱼佩，将相隔千年的两个将死之人相连。\r\n于是，她成了他最大的倚仗，他是她唯一的变数！\r\n他们以为自己在改写历史，却发现——\r\n他们，就是历史本身！\r\n【原来我这一生，从出生起就在等你。】",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
           "url": "https://www.qimao.com/shuku/12257385/",
           "category": "武侠仙侠 幻想修真",
           "status": "连载中",
-          "word_count": "48.57万字",
-          "updated_at": "2026-09-27 07:02:04"
+          "word_count": "48.98万字",
+          "updated_at": "2026-09-28 07:01:06"
         },
         {
           "title": "抱歉，我真的才高八斗",
           "author": "牛奶有点多",
-          "reads": "6.8万",
+          "reads": "6.9万",
           "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\r\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\r\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\r\n李安生：慌什么？不就是个殿试吗？\r\n经义？策论？诗词？张口就是千古名篇。\r\n李安生发现！\r\n这个世界有钱又有才，真的可以为所欲为。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1785924700",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1790567965",
           "url": "https://www.qimao.com/shuku/12985194/",
           "category": "历史 架空历史",
           "status": "连载中",
-          "word_count": "36.18万字",
-          "updated_at": "2026-09-27 12:02:07"
+          "word_count": "37.01万字",
+          "updated_at": "2026-09-28 12:07:06"
+        },
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "author": "七日一夜",
+          "reads": "5.8万",
+          "intro": "一觉醒来，陈川重生回到1962的东北山村！\r\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\r\n临了还被打断了双腿，赶到桥洞子，活活饿死！\r\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
+          "url": "https://www.qimao.com/shuku/12972600/",
+          "category": "都市 都市生活",
+          "status": "连载中",
+          "word_count": "35.43万字",
+          "updated_at": "2026-09-27 21:29:04",
+          "rank_tag": "飙升11名"
         },
         {
           "title": "我想躺平当保安，女神非要来纠缠",
           "author": "我在丛中笑",
-          "reads": "4.9万",
+          "reads": "5.2万",
           "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\r\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\r\n想安静滴当个小保安，就这么难吗？",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
           "url": "https://www.qimao.com/shuku/9999144/",
           "category": "都市 都市高手",
           "status": "连载中",
-          "word_count": "49.42万字",
-          "updated_at": "2026-09-27 00:26:26"
-        },
-        {
-          "title": "聚宝仙炉",
-          "author": "我没偷懒",
-          "reads": "4.2万",
-          "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-          "url": "https://www.qimao.com/shuku/12452187/",
-          "category": "武侠仙侠 幻想修真",
-          "status": "连载中",
-          "word_count": "48.59万字",
-          "updated_at": "2026-09-26 23:20:06"
+          "word_count": "49.86万字",
+          "updated_at": "2026-09-28 00:02:24"
         },
         {
           "title": "乾坤造化诀",
           "author": "凌慕雨",
-          "reads": "3.7万",
+          "reads": "4.7万",
           "intro": "我叫陈凡，一个外门杂役。\r\n宗主中了情毒，我只是好心救个人。\r\n谁知道，她竟然怀孕了。\r\n一夜之间，整个修仙界都在寻找那个让宗主珠胎暗结的男人。\r\n圣子拔剑，长老封山，仙门震怒。\r\n而我默默扫着地，听着所有人分析。\r\n“那个男人，至少也是大乘老祖！”\r\n我差点笑出声。\r\n有没有一种可能……\r\n那个野男人，就是我啊？",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
           "url": "https://www.qimao.com/shuku/12897039/",
           "category": "武侠仙侠 幻想修真",
           "status": "连载中",
-          "word_count": "46.84万字",
-          "updated_at": "2026-09-27 00:52:03"
+          "word_count": "47.35万字",
+          "updated_at": "2026-09-28 00:52:03"
+        },
+        {
+          "title": "聚宝仙炉",
+          "author": "我没偷懒",
+          "reads": "4.3万",
+          "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
+          "url": "https://www.qimao.com/shuku/12452187/",
+          "category": "武侠仙侠 幻想修真",
+          "status": "连载中",
+          "word_count": "49.01万字",
+          "updated_at": "2026-09-27 21:16:03"
+        },
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "author": "提笔忘情",
+          "reads": "3.9万",
+          "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\r\n\r\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\r\n\r\n萧尘非但不怒，反而仰天大笑应允。\r\n\r\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
+          "url": "https://www.qimao.com/shuku/12791886/",
+          "category": "都市 都市高武",
+          "status": "连载中",
+          "word_count": "42.91万字",
+          "updated_at": "2026-09-28 12:12:04"
         },
         {
           "title": "长生猎户，从形意拳到人间武圣！",
@@ -467,32 +492,32 @@
           "url": "https://www.qimao.com/shuku/12789207/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "44.98万字",
-          "updated_at": "2026-09-27 00:00:09"
-        },
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "author": "提笔忘情",
-          "reads": "3.6万",
-          "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\r\n\r\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\r\n\r\n萧尘非但不怒，反而仰天大笑应允。\r\n\r\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-          "url": "https://www.qimao.com/shuku/12791886/",
-          "category": "都市 都市高武",
-          "status": "连载中",
-          "word_count": "42.09万字",
-          "updated_at": "2026-09-27 12:32:03"
+          "word_count": "45.59万字",
+          "updated_at": "2026-09-27 23:56:03"
         },
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "author": "言龙",
-          "reads": "3.2万",
+          "reads": "3.6万",
           "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\r\n秦战阳扭头就报名参军入伍！\r\n【叮！】\r\n【恭喜主人参军入伍，成功授衔！】\r\n【任务完成奖励：全属性+1！】\r\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
           "url": "https://www.qimao.com/shuku/12931542/",
           "category": "军事 现代军事",
           "status": "连载中",
-          "word_count": "45.4万字",
-          "updated_at": "2026-09-27 00:12:17"
+          "word_count": "46.02万字",
+          "updated_at": "2026-09-28 00:12:16"
+        },
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "author": "不吃鱼肉",
+          "reads": "3.1万",
+          "intro": "重回2010年的大学城。\r\n这一年，未来的“最美女教授”还在奶茶店兼职。\r\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\r\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\r\n这一年，未来的商业女强人，还是个恋爱脑。\r\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\r\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
+          "url": "https://www.qimao.com/shuku/12896292/",
+          "category": "都市 热血校园",
+          "status": "连载中",
+          "word_count": "27.86万字",
+          "updated_at": "2026-09-28 09:48:02"
         },
         {
           "title": "斩佞，镇北，王天下！",
@@ -503,8 +528,20 @@
           "url": "https://www.qimao.com/shuku/12722883/",
           "category": "历史 架空历史",
           "status": "连载中",
-          "word_count": "46.91万字",
-          "updated_at": "2026-09-26 19:47:03"
+          "word_count": "47.54万字",
+          "updated_at": "2026-09-27 19:58:03"
+        },
+        {
+          "title": "下山即无敌，美女总裁逼我去领证！",
+          "author": "离原",
+          "reads": "2.9万",
+          "intro": "“昨晚…是你？”\r\n“美女，明明是你先闯进我房间，对我用强的……”\r\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\r\n从此，叶安走上了一条权势与美女相伴的道路。\r\n很猛很无敌！\r\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
+          "url": "https://www.qimao.com/shuku/12594795/",
+          "category": "都市 都市高手",
+          "status": "连载中",
+          "word_count": "41.11万字",
+          "updated_at": "2026-09-28 01:19:03"
         },
         {
           "title": "贱籍仵作，从摸尸开始炼成武神",
@@ -515,8 +552,9 @@
           "url": "https://www.qimao.com/shuku/12791520/",
           "category": "武侠仙侠 幻想修真",
           "status": "连载中",
-          "word_count": "46.86万字",
-          "updated_at": "2026-09-27 12:02:11"
+          "word_count": "47.57万字",
+          "updated_at": "2026-09-28 12:02:08",
+          "change": "down"
         },
         {
           "title": "重生七零资本家大少爷，开局被寡妇堵门",
@@ -527,44 +565,9 @@
           "url": "https://www.qimao.com/shuku/12779493/",
           "category": "都市 乡村生活",
           "status": "连载中",
-          "word_count": "45.79万字",
-          "updated_at": "2026-09-26 23:53:03"
-        },
-        {
-          "title": "趁校花一贫如洗，忽悠她以身相许",
-          "author": "不吃鱼肉",
-          "reads": "2.6万",
-          "intro": "重回2010年的大学城。\r\n这一年，未来的“最美女教授”还在奶茶店兼职。\r\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\r\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\r\n这一年，未来的商业女强人，还是个恋爱脑。\r\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\r\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-          "url": "https://www.qimao.com/shuku/12896292/",
-          "category": "都市 热血校园",
-          "status": "连载中",
-          "word_count": "27.38万字",
-          "updated_at": "2026-09-27 08:12:10"
-        },
-        {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "author": "离原",
-          "reads": "2.6万",
-          "intro": "“昨晚…是你？”\r\n“美女，明明是你先闯进我房间，对我用强的……”\r\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\r\n从此，叶安走上了一条权势与美女相伴的道路。\r\n很猛很无敌！\r\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-          "url": "https://www.qimao.com/shuku/12594795/",
-          "category": "都市 都市高手",
-          "status": "连载中",
-          "word_count": "40.89万字",
-          "updated_at": "2026-09-27 08:39:03"
-        },
-        {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "author": "七日一夜",
-          "reads": "2.4万",
-          "intro": "一觉醒来，陈川重生回到1962的东北山村！\r\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\r\n临了还被打断了双腿，赶到桥洞子，活活饿死！\r\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-          "url": "https://www.qimao.com/shuku/12972600/",
-          "category": "都市 都市生活",
-          "status": "连载中",
-          "word_count": "34.73万字",
-          "updated_at": "2026-09-26 22:24:02"
+          "word_count": "46.42万字",
+          "updated_at": "2026-09-27 23:48:03",
+          "change": "down"
         },
         {
           "title": "重生57：开局傻子，白捡个漂亮媳妇",
@@ -575,33 +578,33 @@
           "url": "https://www.qimao.com/shuku/13118376/",
           "category": "都市 乡村生活",
           "status": "连载中",
-          "word_count": "28.11万字",
-          "updated_at": "2026-09-26 22:42:03"
+          "word_count": "28.72万字",
+          "updated_at": "2026-09-27 22:27:03",
+          "change": "down"
         },
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "author": "文字画家",
-          "reads": "2.1万",
+          "reads": "2.2万",
           "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\r\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\r\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\r\n当他展现逆天医术，无敌本领之时。\r\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
           "url": "https://www.qimao.com/shuku/13008696/",
           "category": "都市 都市高手",
           "status": "连载中",
-          "word_count": "24.72万字",
-          "updated_at": "2026-09-27 05:02:03",
-          "change": "down"
+          "word_count": "25.17万字",
+          "updated_at": "2026-09-28 05:02:02"
         },
         {
-          "title": "从拒绝美女总裁开始权势滔天",
-          "author": "风水本尊",
+          "title": "罪妻识药，分家后我坐拥万顷良田",
+          "author": "轻渡尘舟",
           "reads": "2.1万",
-          "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\r\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\r\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4238/12713682_360x480.jpg?time=1783391037",
-          "url": "https://www.qimao.com/shuku/12713682/",
-          "category": "都市 都市高手",
+          "intro": "分家那日，全村看石磊笑话。\r\n\r\n非要带着两个病秧子净身出户，放着家产不要，只为断亲！\r\n\r\n二叔骂他蠢，继祖母咒他饿死。\r\n\r\n没人知道，死对头强塞给他的罪妻，能辨百草，能识奇药。\r\n\r\n一株老山参换来五百两银子。\r\n\r\n半月后，青砖瓦房立起来，百亩良田雇人耕。\r\n\r\n石磊躺在摇椅上，笑看着媳妇渐丰的孕肚时。\r\n\r\n当初逼他净身出户的家人，堵着门，想让他认祖归宗……",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4245/12732294_360x480.jpg?time=1783965539",
+          "url": "https://www.qimao.com/shuku/12732294/",
+          "category": "历史 架空历史",
           "status": "连载中",
-          "word_count": "49.76万字",
-          "updated_at": "2026-09-27 11:32:04"
+          "word_count": "45.58万字",
+          "updated_at": "2026-09-27 23:58:03"
         },
         {
           "title": "葬仙塔，葬天，葬地，葬众仙",
@@ -612,8 +615,9 @@
           "url": "https://www.qimao.com/shuku/12679578/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "连载中",
-          "word_count": "49.2万字",
-          "updated_at": "2026-09-26 20:02:04"
+          "word_count": "49.61万字",
+          "updated_at": "2026-09-27 20:02:04",
+          "change": "down"
         }
       ]
     }

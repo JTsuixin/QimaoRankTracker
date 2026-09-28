@@ -1,66 +1,9 @@
 {
-  "type": "all",
   "date": "2026-09-28",
-  "prev_date": "2026-09-27",
   "categories": [
     {
       "name": "男生新书榜",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "罪妻识药，分家后我坐拥万顷良田"
-        ],
-        "dropped_books": [
-          {
-            "title": "从拒绝美女总裁开始权势滔天",
-            "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\r\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\r\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "暴雪1962，绝美邻居上门求肉",
-            "change": "+11"
-          },
-          {
-            "title": "趁校花一贫如洗，忽悠她以身相许",
-            "change": "+2"
-          },
-          {
-            "title": "下山即无敌，美女总裁逼我去领证！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "贱籍仵作，从摸尸开始炼成武神",
-            "change": "-3"
-          },
-          {
-            "title": "重生七零资本家大少爷，开局被寡妇堵门",
-            "change": "-3"
-          },
-          {
-            "title": "聚宝仙炉",
-            "change": "-2"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "暴雪1962，绝美邻居上门求肉",
-            "growth": "+3.4万"
-          },
-          {
-            "title": "乾坤造化诀",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "趁校花一贫如洗，忽悠她以身相许",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "新增1本上榜；1本掉出（《从拒绝美女总裁开始权势滔天》）；《暴雪1962，绝美邻居上门求肉》排名上升+11位；《暴雪1962，绝美邻居上门求肉》热度+3.4万。"
-      },
+      "channel": "male",
       "books": [
         {
           "title": "恐怖复苏：离婚后，我不替她挡灾了",
@@ -314,55 +257,7 @@
     },
     {
       "name": "男生大热榜",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "傲世潜龙",
-            "change": "+3"
-          },
-          {
-            "title": "九转仙葫",
-            "change": "+1"
-          },
-          {
-            "title": "舔狗反派只想苟，女主不按套路走！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "边军悍卒",
-            "change": "-2"
-          },
-          {
-            "title": "吞噬九重天",
-            "change": "-2"
-          },
-          {
-            "title": "大周第一武夫",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "盖世神医",
-            "growth": "+6.4万"
-          },
-          {
-            "title": "傲世潜龙",
-            "growth": "+2.9万"
-          },
-          {
-            "title": "九转仙葫",
-            "growth": "+2.5万"
-          }
-        ],
-        "summary": "《傲世潜龙》排名上升+3位；《盖世神医》热度+6.4万。"
-      },
+      "channel": "male",
       "books": [
         {
           "title": "盖世神医",
@@ -610,55 +505,7 @@
     },
     {
       "name": "男生完结榜",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "世子无双",
-            "change": "+2"
-          },
-          {
-            "title": "小司机的美女总裁老婆",
-            "change": "+1"
-          },
-          {
-            "title": "山野诡闻笔记",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "边关猎户，我粮肉满仓富甲一方",
-            "change": "-3"
-          },
-          {
-            "title": "我和软萌女友的恋爱日常",
-            "change": "-2"
-          },
-          {
-            "title": "打到北极圈了，你让我继承皇位？",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "小司机的美女总裁老婆",
-            "growth": "+1.2万"
-          },
-          {
-            "title": "荒古武神",
-            "growth": "+8000"
-          },
-          {
-            "title": "无敌六皇子",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "《世子无双》排名上升+2位；《小司机的美女总裁老婆》热度+1.2万。"
-      },
+      "channel": "male",
       "books": [
         {
           "title": "荒古武神",
@@ -909,16 +756,7 @@
     },
     {
       "name": "男生收藏榜",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "榜单无明显变动。"
-      },
+      "channel": "male",
       "books": [
         {
           "title": "盖世神医",
@@ -1165,67 +1003,7 @@
     },
     {
       "name": "女生新书榜",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "难戒，上上婚！",
-          "军婚超甜！闪婚后成了首长的心尖宠"
-        ],
-        "dropped_books": [
-          {
-            "title": "王妃一身妖骨，京城百祟俯首",
-            "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\r\n于是传言四起。\r\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\r\n偏偏她又最好命。\r\n国公府护着，谢"
-          },
-          {
-            "title": "年下弟弟，人前乖软人后野",
-            "intro": "她以为的一夜放纵，是他等了八年的久别重逢。\r\n那晚，清昭跨坐在乔聿身上，拇指按在他最要命的地方，低头咬他耳朵：“乖，帮姐姐。”\r\n男人喉结滚了又滚，从嗓子眼里挤出两个字：“确定？”\r\n一夜温存后，林清"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "孕难产还要她AA，去父留子你活该绝嗣",
-            "change": "+3"
-          },
-          {
-            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
-            "change": "+2"
-          },
-          {
-            "title": "离婚当天，和京圈太子爷闪婚了",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "夺她入帐，惹上疯批权臣逃不掉",
-            "change": "-3"
-          },
-          {
-            "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
-            "change": "-3"
-          },
-          {
-            "title": "替嫁高门后，贤德夫人捅破天",
-            "change": "-3"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "一胎五宝，我成军属院顶流",
-            "growth": "+9000"
-          },
-          {
-            "title": "离婚当天，和京圈太子爷闪婚了",
-            "growth": "+6000"
-          },
-          {
-            "title": "孕难产还要她AA，去父留子你活该绝嗣",
-            "growth": "+6000"
-          }
-        ],
-        "summary": "新增2本上榜；2本掉出（《王妃一身妖骨，京城百祟俯首》、《年下弟弟，人前乖软人后野》）；《孕难产还要她AA，去父留子你活该绝嗣》排名上升+3位；《一胎五宝，我成军属院顶流》热度+9000。"
-      },
+      "channel": "female",
       "books": [
         {
           "title": "错嫁随军：新婚夜冷面军少沦陷了",
@@ -1479,55 +1257,7 @@
     },
     {
       "name": "女生大热榜",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "薄总，婚后请节制！",
-            "change": "+3"
-          },
-          {
-            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-            "change": "+1"
-          },
-          {
-            "title": "家有玄妻，百邪不侵！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "错嫁随军：新婚夜冷面军少沦陷了",
-            "change": "-4"
-          },
-          {
-            "title": "盛总，太太让您签的是去父留子协议",
-            "change": "-1"
-          },
-          {
-            "title": "霍二爷，新婚请克制！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "皇叔借点功德，王妃把符画猛了",
-            "growth": "+2.7万"
-          },
-          {
-            "title": "薄总，婚后请节制！",
-            "growth": "+2.2万"
-          },
-          {
-            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-            "growth": "+1.6万"
-          }
-        ],
-        "summary": "《薄总，婚后请节制！》排名上升+3位；《皇叔借点功德，王妃把符画猛了》热度+2.7万。"
-      },
+      "channel": "female",
       "books": [
         {
           "title": "封总，太太想跟你离婚很久了",
@@ -1776,55 +1506,7 @@
     },
     {
       "name": "女生完结榜",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "诱情染指，疯批宠娇入怀",
-            "change": "+6"
-          },
-          {
-            "title": "阴当",
-            "change": "+2"
-          },
-          {
-            "title": "消失十五年，孩子妈穿回来了！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "他的瘾",
-            "change": "-4"
-          },
-          {
-            "title": "为奴三年后，整个侯府跪求我原谅",
-            "change": "-4"
-          },
-          {
-            "title": "大佬归来，假千金她不装了",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "诱情染指，疯批宠娇入怀",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "凤池生春",
-            "growth": "+1.2万"
-          }
-        ],
-        "summary": "《诱情染指，疯批宠娇入怀》排名上升+6位；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+1.6万。"
-      },
+      "channel": "female",
       "books": [
         {
           "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
@@ -2076,16 +1758,7 @@
     },
     {
       "name": "女生收藏榜",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "榜单无明显变动。"
-      },
+      "channel": "female",
       "books": [
         {
           "title": "神医毒妃不好惹",
