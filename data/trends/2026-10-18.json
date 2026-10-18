@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-18",
+  "prev_date": "2026-10-17",
+  "trends": {
+    "男生新书榜": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "都荒岛求生了，一群绿茶还想让我当舔狗"
+      ],
+      "dropped_books": [
+        {
+          "title": "抱歉，我真的才高八斗",
+          "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\r\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\r\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\r\n李安生：慌什么？不就是个殿试吗？\r\n经义？"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "女总裁的小邪医",
+          "change": "+4"
+        },
+        {
+          "title": "我的倾城野妻",
+          "change": "+1"
+        },
+        {
+          "title": "野性攀登",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "阴阳天帝诀",
+          "change": "-2"
+        },
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "change": "-1"
+        },
+        {
+          "title": "北疆最狂纨绔：从赐婚进京开始",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "女总裁的小邪医",
+          "growth": "+3000"
+        },
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "growth": "+2000"
+        },
+        {
+          "title": "网游：全是数值，你管这叫圣骑士？",
+          "growth": "+2000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《抱歉，我真的才高八斗》）；《女总裁的小邪医》排名上升+4位；《女总裁的小邪医》热度+3000。"
+    },
+    "男生大热榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "让你当个替身，你咋君临天下",
+          "change": "+2"
+        },
+        {
+          "title": "吞噬九重天",
+          "change": "+1"
+        },
+        {
+          "title": "聚宝仙炉",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "葬神棺",
+          "change": "-2"
+        },
+        {
+          "title": "大周第一武夫",
+          "change": "-1"
+        },
+        {
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "让你当个替身，你咋君临天下",
+          "growth": "+1.1万"
+        },
+        {
+          "title": "吞噬九重天",
+          "growth": "+2000"
+        },
+        {
+          "title": "警报！真龙出狱！",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《让你当个替身，你咋君临天下》排名上升+2位；《让你当个替身，你咋君临天下》热度+1.1万。"
+    },
+    "男生完结榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "天后老婆狂卷工作，我躺平被全网直播",
+          "change": "+7"
+        },
+        {
+          "title": "山野诡闻笔记",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "民间诡闻实录",
+          "change": "-2"
+        },
+        {
+          "title": "世子无双",
+          "change": "-2"
+        },
+        {
+          "title": "全球灾变之末日游戏",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "天后老婆狂卷工作，我躺平被全网直播",
+          "growth": "+9000"
+        },
+        {
+          "title": "葬天神帝",
+          "growth": "+2000"
+        },
+        {
+          "title": "警报！龙国出现SSS级修仙者！",
+          "growth": "+1000"
+        }
+      ],
+      "summary": "《天后老婆狂卷工作，我躺平被全网直播》排名上升+7位；《天后老婆狂卷工作，我躺平被全网直播》热度+9000。"
+    },
+    "男生收藏榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "榜单无明显变动。"
+    },
+    "女生新书榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "夫人反差太大，司总沦陷了！",
+          "change": "+5"
+        },
+        {
+          "title": "婚后分床睡，冷面军官他急了",
+          "change": "+3"
+        },
+        {
+          "title": "长庚引",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "暗渡春潮",
+          "change": "-2"
+        },
+        {
+          "title": "春闺小寡妇",
+          "change": "-2"
+        },
+        {
+          "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "夫人反差太大，司总沦陷了！",
+          "growth": "+3.4万"
+        },
+        {
+          "title": "错嫁随军：新婚夜冷面军少沦陷了",
+          "growth": "+2.3万"
+        },
+        {
+          "title": "皇上开门，福宝带物资来送温暖啦",
+          "growth": "+1.4万"
+        }
+      ],
+      "summary": "《夫人反差太大，司总沦陷了！》排名上升+5位；《夫人反差太大，司总沦陷了！》热度+3.4万。"
+    },
+    "女生大热榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "裂春风",
+          "change": "+6"
+        },
+        {
+          "title": "嫡姐惨死？王妃她杀爆京城",
+          "change": "+2"
+        },
+        {
+          "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "盛总，太太让您签的是去父留子协议",
+          "change": "-6"
+        },
+        {
+          "title": "唯她是图",
+          "change": "-2"
+        },
+        {
+          "title": "凰宫梦",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "裂春风",
+          "growth": "+8.6万"
+        },
+        {
+          "title": "错嫁随军：新婚夜冷面军少沦陷了",
+          "growth": "+2.3万"
+        },
+        {
+          "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+          "growth": "+9000"
+        }
+      ],
+      "summary": "《裂春风》排名上升+6位；《裂春风》热度+8.6万。"
+    },
+    "女生完结榜": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "为奴三年后，整个侯府跪求我原谅"
+      ],
+      "dropped_books": [
+        {
+          "title": "穿成六零小炮灰，大小姐带物资养兵王",
+          "intro": "医学世家的病弱天才桑榆救人累死后，重生成了六十年代海城首富家的真千金。\r\n真千金可怜，从小被养父母虐待，好不容易回家，又被假千金算计。\r\n最终，不甘不愿嫁给了植物人兵王。\r\n桑榆来了后，不能动有钱长得"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "裂春风",
+          "change": "+2"
+        },
+        {
+          "title": "第一瞳术师",
+          "change": "+2"
+        },
+        {
+          "title": "八年冷淡你提离婚，我签字你疯什么",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+          "change": "-3"
+        },
+        {
+          "title": "盛总，太太让您签的是去父留子协议",
+          "change": "-2"
+        },
+        {
+          "title": "第一凤女",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "裂春风",
+          "growth": "+8.6万"
+        },
+        {
+          "title": "消失十五年，孩子妈穿回来了！",
+          "growth": "+1.7万"
+        },
+        {
+          "title": "第一瞳术师",
+          "growth": "+3000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《穿成六零小炮灰，大小姐带物资养兵王》）；《裂春风》排名上升+2位；《裂春风》热度+8.6万。"
+    },
+    "女生收藏榜": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "榜单无明显变动。"
+    }
+  }
+}
