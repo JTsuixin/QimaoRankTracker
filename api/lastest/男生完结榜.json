@@ -1,70 +1,63 @@
 {
   "type": "男生完结榜",
-  "date": "2026-10-27",
-  "prev_date": "2026-10-26",
+  "date": "2026-10-28",
+  "prev_date": "2026-10-27",
   "category": {
     "name": "男生完结榜",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        "极道剑尊"
-      ],
-      "dropped_books": [
-        {
-          "title": "让你带问题女兵，你全养成特种兵王了？",
-          "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\r\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "世子无双",
-          "change": "+3"
+          "title": "山野诡闻笔记",
+          "change": "+2"
         },
         {
-          "title": "镇天神医",
-          "change": "+1"
+          "title": "一秒十级，从边关小卒开始横推",
+          "change": "+2"
         },
         {
-          "title": "我和软萌女友的恋爱日常",
+          "title": "无敌六皇子",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "民间诡闻实录",
+          "title": "世子无双",
+          "change": "-3"
+        },
+        {
+          "title": "极道剑尊",
           "change": "-2"
         },
         {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "change": "-2"
-        },
-        {
-          "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+          "title": "我和软萌女友的恋爱日常",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "葬天神帝",
-          "growth": "+1.1万"
+          "growth": "+8000"
         },
         {
-          "title": "小司机的美女总裁老婆",
-          "growth": "+9000"
+          "title": "民间诡闻实录",
+          "growth": "+5000"
         },
         {
-          "title": "我和软萌女友的恋爱日常",
-          "growth": "+7000"
+          "title": "九转星辰诀",
+          "growth": "+2000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《让你带问题女兵，你全养成特种兵王了？》）；《世子无双》排名上升+3位；《葬天神帝》热度+1.1万。"
+      "summary": "《山野诡闻笔记》排名上升+2位；《葬天神帝》热度+8000。"
     },
     "books": [
       {
         "title": "逍遥四公子",
         "author": "修果",
-        "reads": "48.3万",
+        "reads": "47.1万",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\r\n短剧《逍遥四公子》原著，已上线。\r\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\r\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\r\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
         "url": "https://www.qimao.com/shuku/1809361/",
@@ -78,19 +71,20 @@
       {
         "title": "荒古武神",
         "author": "化十",
-        "reads": "31.8万",
+        "reads": "31.7万",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
         "url": "https://www.qimao.com/shuku/216404/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "已完结",
         "word_count": "864.16万字",
-        "updated_at": "2026-04-22 00:17:41"
+        "updated_at": "2026-04-22 00:17:41",
+        "change": "down"
       },
       {
         "title": "葬天神帝",
         "author": "我爱弹棉花",
-        "reads": "20.9万",
+        "reads": "21.7万",
         "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
         "url": "https://www.qimao.com/shuku/213697/",
@@ -102,92 +96,85 @@
       {
         "title": "玲珑塔",
         "author": "一丝凉意",
-        "reads": "14.6万",
+        "reads": "14.1万",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "url": "https://www.qimao.com/shuku/1754203/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "已完结",
         "word_count": "701.84万字",
-        "updated_at": "2026-08-31 16:32:19"
+        "updated_at": "2026-08-31 16:32:19",
+        "change": "down"
       },
       {
         "title": "小司机的美女总裁老婆",
         "author": "最爱老板娘",
-        "reads": "14.4万",
+        "reads": "13.9万",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\r\n————————————————————\r\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
         "url": "https://www.qimao.com/shuku/2052700/",
         "category": "都市 都市高武",
         "status": "已完结",
         "word_count": "201.22万字",
-        "updated_at": "2026-04-02 18:35:10"
+        "updated_at": "2026-04-02 18:35:10",
+        "change": "down"
       },
       {
         "title": "打到北极圈了，你让我继承皇位？",
         "author": "橡皮泥",
-        "reads": "12.7万",
+        "reads": "12.5万",
         "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "url": "https://www.qimao.com/shuku/1864493/",
         "category": "历史 架空历史",
         "status": "已完结",
         "word_count": "304.01万字",
-        "updated_at": "2026-03-31 22:07:15"
+        "updated_at": "2026-03-31 22:07:15",
+        "change": "down"
       },
       {
         "title": "镇天神医",
         "author": "五杯咖啡",
-        "reads": "9.7万",
+        "reads": "9.6万",
         "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\r\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\r\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\r\n他，修仙强者，任你武力多强，都一剑可杀！\r\n他，医术逆天，阎王让你三更死，他能留你到五更！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "url": "https://www.qimao.com/shuku/1675640/",
         "category": "都市 都市高武",
         "status": "已完结",
         "word_count": "543.03万字",
-        "updated_at": "2025-12-15 11:18:20"
-      },
-      {
-        "title": "警报！龙国出现SSS级修仙者！",
-        "author": "紫枫",
-        "reads": "9.7万",
-        "intro": "原名《狂仙出狱》\n三年前，陈凡为了保护妹妹不得已出手伤人，锒铛入狱，却因祸得福拜仙道至尊为师，从此命运的齿轮开始转动……\n三年后，他是SSS级监狱人人敬畏的少尊！看着受尽欺凌的妹妹，命悬一线的养父，身处险境的未婚妻，陈凡誓要以八尺之躯，为他们撑起一片天！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
-        "url": "https://www.qimao.com/shuku/1812053/",
-        "category": "都市 都市高武",
-        "status": "已完结",
-        "word_count": "503.43万字",
-        "updated_at": "2026-10-01 00:02:31"
+        "updated_at": "2025-12-15 11:18:20",
+        "change": "down"
       },
       {
         "title": "无敌六皇子",
         "author": "梁山老鬼",
-        "reads": "9.7万",
+        "reads": "9.4万",
         "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\r\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\r\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\r\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\r\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "url": "https://www.qimao.com/shuku/1747899/",
         "category": "历史 架空历史",
         "status": "已完结",
         "word_count": "350.25万字",
-        "updated_at": "2025-03-03 00:03:29"
+        "updated_at": "2025-03-03 00:03:29",
+        "change": "down"
       },
       {
-        "title": "极道剑尊",
-        "author": "二十七杯酒",
-        "reads": "8.0万",
-        "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
-        "url": "https://www.qimao.com/shuku/219040/",
-        "category": "玄幻奇幻 东方玄幻",
-        "status": "连载中",
-        "word_count": "1033.04万字",
-        "updated_at": "2026-10-26 08:07:32",
-        "rank_tag": "飙升11名"
+        "title": "警报！龙国出现SSS级修仙者！",
+        "author": "紫枫",
+        "reads": "9.4万",
+        "intro": "原名《狂仙出狱》\n三年前，陈凡为了保护妹妹不得已出手伤人，锒铛入狱，却因祸得福拜仙道至尊为师，从此命运的齿轮开始转动……\n三年后，他是SSS级监狱人人敬畏的少尊！看着受尽欺凌的妹妹，命悬一线的养父，身处险境的未婚妻，陈凡誓要以八尺之躯，为他们撑起一片天！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
+        "url": "https://www.qimao.com/shuku/1812053/",
+        "category": "都市 都市高武",
+        "status": "已完结",
+        "word_count": "503.43万字",
+        "updated_at": "2026-10-01 00:02:31",
+        "change": "down"
       },
       {
         "title": "九转星辰诀",
         "author": "晨弈",
-        "reads": "7.7万",
+        "reads": "7.9万",
         "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\r\n一代战神，重生觉醒九世记忆。\r\n绝世天才，万古人杰？不过是我崛起的踏脚石！\r\n真爱守护，才是我心之所向。\r\n仗剑碾压万界，只为一心向前！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204938_360x480.jpg?time=1766104371",
         "url": "https://www.qimao.com/shuku/202636/",
@@ -199,27 +186,27 @@
       {
         "title": "民间诡闻实录",
         "author": "罗樵森",
-        "reads": "7.3万",
+        "reads": "7.8万",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "url": "https://www.qimao.com/shuku/197091/",
         "category": "奇闻异事 奇门秘术",
         "status": "已完结",
         "word_count": "243.5万字",
-        "updated_at": "2021-10-12 11:14:06",
-        "change": "down"
+        "updated_at": "2021-10-12 11:14:06"
       },
       {
-        "title": "我和软萌女友的恋爱日常",
-        "author": "佛系和尚",
+        "title": "极道剑尊",
+        "author": "二十七杯酒",
         "reads": "7.0万",
-        "intro": "甜甜的治愈文，带你重回校园时代！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
-        "url": "https://www.qimao.com/shuku/214789/",
-        "category": "都市 热血校园",
-        "status": "已完结",
-        "word_count": "299.99万字",
-        "updated_at": "2023-02-18 08:11:26"
+        "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
+        "url": "https://www.qimao.com/shuku/219040/",
+        "category": "玄幻奇幻 东方玄幻",
+        "status": "连载中",
+        "word_count": "1033.66万字",
+        "updated_at": "2026-10-28 08:17:31",
+        "change": "down"
       },
       {
         "title": "重生2000：从追求青涩校花同桌开始",
@@ -237,7 +224,7 @@
       {
         "title": "刚抽中SSS级天赋，你跟我说游戏停服",
         "author": "吃猫的鱼仔",
-        "reads": "6.6万",
+        "reads": "6.7万",
         "intro": "云澈穿越到了游戏世界，还成了秦王府的赘婿。\r\n可他的命运似乎仅限于成为秦大小姐修炼双修之法的牺牲品。\r\n濒临死亡之际，天赋神来之手显威，云澈幸运获得了对方的双修之法。\r\n一夜之间，云澈修为突飞猛进，成为大元帝国所有男人羡慕嫉妒恨的焦点。\r\n对着秦王爷施展神来之手，抓取成功，恭喜获得上品身法，飞絮飘步。\r\n对着小姨子施展神来之手，抓取成功，恭喜获得中品防具，冰丝锦绣衣。\r\n对着秦女魔施展神来之手，抓取成功，恭喜获得100点经验。\r\n对着毒灵花施展神来之手，抓取成功，恭喜获得5点毒抗。\r\n对着巨灵龟施展神来之手，抓取成功，恭喜获得500点耐力。\r\n对着NPC老爷爷施展神来之手，抓取成功，恭喜获得转职卷轴（唯一）。\r\n云澈满脸狂喜，不用做任务就能成功转职，这比躺平还爽啊！\r\n某日，云澈偶然遇到了同班同学，他这才得知，原来是地球疯了，带着全人类融入到了妖魔与邪修肆虐的神武世界，艰难苟活。\r\n他只不过是比其他人早来那么一年时间而已......",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
         "url": "https://www.qimao.com/shuku/2027749/",
@@ -247,34 +234,22 @@
         "updated_at": "2026-09-06 08:21:09"
       },
       {
-        "title": "世子无双",
-        "author": "宁峥",
+        "title": "我和软萌女友的恋爱日常",
+        "author": "佛系和尚",
         "reads": "6.2万",
-        "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\r\n短剧《世子无双》原著，已上线。\r\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\r\n穿越架空历史，成为在青楼猝死的废材纨绔。\r\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\r\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\r\n但……\r\n番邦蛮夷想他死。\r\n世家门阀想他死。\r\n就连皇帝也做局想弄死他。\r\n卫渊很慌，但却不完全慌。\r\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\r\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
-        "url": "https://www.qimao.com/shuku/1860026/",
-        "category": "历史 架空历史",
+        "intro": "甜甜的治愈文，带你重回校园时代！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+        "url": "https://www.qimao.com/shuku/214789/",
+        "category": "都市 热血校园",
         "status": "已完结",
-        "word_count": "284万字",
-        "updated_at": "2026-03-08 01:17:14"
-      },
-      {
-        "title": "全球灾变之末日游戏",
-        "author": "我爱吃猫片",
-        "reads": "6.1万",
-        "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
-        "url": "https://www.qimao.com/shuku/219542/",
-        "category": "科幻 末世危机",
-        "status": "已完结",
-        "word_count": "502.3万字",
-        "updated_at": "2024-08-28 22:04:25",
+        "word_count": "299.99万字",
+        "updated_at": "2023-02-18 08:11:26",
         "change": "down"
       },
       {
         "title": "山野诡闻笔记",
         "author": "吴大胆",
-        "reads": "6.1万",
+        "reads": "6.0万",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "url": "https://www.qimao.com/shuku/214783/",
@@ -287,27 +262,53 @@
       {
         "title": "一秒十级，从边关小卒开始横推",
         "author": "今天写书了吗",
-        "reads": "5.9万",
+        "reads": "6.0万",
         "intro": "一觉醒来，江北成为了边关小卒，蛮族不断入侵，危险重重！\r\n　　索幸觉醒了“功德面板”！\r\n　　只要斩杀罪孽缠身之辈，就能够获得功德点，提升武功！\r\n　　原本不知该如何存活下去的江北兴奋了。\r\n　　边关一带蛮族肆虐，贼人无数，杀敌就爆功德，这还不简单？\r\n　　看我一秒十级，直接无敌！\r\n　　【你击杀一名作恶多端的蛮兵，功德点+1！】\r\n　　【你击杀一名蛮族万夫长，功德点+1000！】\r\n　　……\r\n　　【发现武功·天罡正气刀，可提升，需功德100点，是否提升？】\r\n　　【发现武功·神象镇狱劲，可提升，需功德1000点，是否提升？】\r\n　　……\r\n　　【发现物品·天帝石像，可炼化，需功德10000点，是否炼化？】\r\n　　【注：炼化可得修真级武学·他化自在法】\r\n　　……\r\n　　江北踏着累累尸骨，一路杀穿。\r\n　　从边关小卒到北疆大将，再到大乾武神，无敌天上地下！\r\n　　那仙府之中，漫天神佛见到江北浑身金光璀璨，功德盖世，发出了惊叹：\r\n　　“我们口诵佛经，超度众生，尚且如此！”\r\n　　“你浑身沾满血腥，杀气腾腾，怎么就功德成圣了？！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/866/2596353_360x480.jpg?time=1758437337",
         "url": "https://www.qimao.com/shuku/2056131/",
         "category": "玄幻奇幻 东方玄幻",
         "status": "已完结",
         "word_count": "273.66万字",
-        "updated_at": "2026-10-17 21:31:07",
+        "updated_at": "2026-10-17 21:31:07"
+      },
+      {
+        "title": "全球灾变之末日游戏",
+        "author": "我爱吃猫片",
+        "reads": "6.0万",
+        "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
+        "url": "https://www.qimao.com/shuku/219542/",
+        "category": "科幻 末世危机",
+        "status": "已完结",
+        "word_count": "502.3万字",
+        "updated_at": "2024-08-28 22:04:25",
+        "change": "down"
+      },
+      {
+        "title": "世子无双",
+        "author": "宁峥",
+        "reads": "5.8万",
+        "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\r\n短剧《世子无双》原著，已上线。\r\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\r\n穿越架空历史，成为在青楼猝死的废材纨绔。\r\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\r\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\r\n但……\r\n番邦蛮夷想他死。\r\n世家门阀想他死。\r\n就连皇帝也做局想弄死他。\r\n卫渊很慌，但却不完全慌。\r\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\r\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
+        "url": "https://www.qimao.com/shuku/1860026/",
+        "category": "历史 架空历史",
+        "status": "已完结",
+        "word_count": "284万字",
+        "updated_at": "2026-03-08 01:17:14",
         "change": "down"
       },
       {
         "title": "SSS级狂龙归来，全球戒备！",
         "author": "贪睡的虫儿",
-        "reads": "5.7万",
+        "reads": "5.6万",
         "intro": "本书又名《警报！真龙在世》\r\n \r\n 拥兵百万，北境之主。\r\n 叶天回到江城，调查父母死因。\r\n\r\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\r\n\r\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\r\n\r\n　　她们都成为了叶天最坚实的后盾。\r\n\r\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "url": "https://www.qimao.com/shuku/2060177/",
         "category": "都市 都市高手",
         "status": "已完结",
         "word_count": "269.31万字",
-        "updated_at": "2026-09-05 12:02:13"
+        "updated_at": "2026-09-05 12:02:13",
+        "change": "down"
       }
     ]
   },
@@ -315,66 +316,59 @@
     {
       "name": "男生完结榜",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "极道剑尊"
-        ],
-        "dropped_books": [
-          {
-            "title": "让你带问题女兵，你全养成特种兵王了？",
-            "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\r\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
           {
-            "title": "世子无双",
-            "change": "+3"
+            "title": "山野诡闻笔记",
+            "change": "+2"
           },
           {
-            "title": "镇天神医",
-            "change": "+1"
+            "title": "一秒十级，从边关小卒开始横推",
+            "change": "+2"
           },
           {
-            "title": "我和软萌女友的恋爱日常",
+            "title": "无敌六皇子",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "民间诡闻实录",
+            "title": "世子无双",
+            "change": "-3"
+          },
+          {
+            "title": "极道剑尊",
             "change": "-2"
           },
           {
-            "title": "重生2000：从追求青涩校花同桌开始",
-            "change": "-2"
-          },
-          {
-            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "title": "我和软萌女友的恋爱日常",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "葬天神帝",
-            "growth": "+1.1万"
+            "growth": "+8000"
           },
           {
-            "title": "小司机的美女总裁老婆",
-            "growth": "+9000"
+            "title": "民间诡闻实录",
+            "growth": "+5000"
           },
           {
-            "title": "我和软萌女友的恋爱日常",
-            "growth": "+7000"
+            "title": "九转星辰诀",
+            "growth": "+2000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《让你带问题女兵，你全养成特种兵王了？》）；《世子无双》排名上升+3位；《葬天神帝》热度+1.1万。"
+        "summary": "《山野诡闻笔记》排名上升+2位；《葬天神帝》热度+8000。"
       },
       "books": [
         {
           "title": "逍遥四公子",
           "author": "修果",
-          "reads": "48.3万",
+          "reads": "47.1万",
           "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\r\n短剧《逍遥四公子》原著，已上线。\r\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\r\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\r\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
           "url": "https://www.qimao.com/shuku/1809361/",
@@ -388,19 +382,20 @@
         {
           "title": "荒古武神",
           "author": "化十",
-          "reads": "31.8万",
+          "reads": "31.7万",
           "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
           "url": "https://www.qimao.com/shuku/216404/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "已完结",
           "word_count": "864.16万字",
-          "updated_at": "2026-04-22 00:17:41"
+          "updated_at": "2026-04-22 00:17:41",
+          "change": "down"
         },
         {
           "title": "葬天神帝",
           "author": "我爱弹棉花",
-          "reads": "20.9万",
+          "reads": "21.7万",
           "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
           "url": "https://www.qimao.com/shuku/213697/",
@@ -412,92 +407,85 @@
         {
           "title": "玲珑塔",
           "author": "一丝凉意",
-          "reads": "14.6万",
+          "reads": "14.1万",
           "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
           "url": "https://www.qimao.com/shuku/1754203/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "已完结",
           "word_count": "701.84万字",
-          "updated_at": "2026-08-31 16:32:19"
+          "updated_at": "2026-08-31 16:32:19",
+          "change": "down"
         },
         {
           "title": "小司机的美女总裁老婆",
           "author": "最爱老板娘",
-          "reads": "14.4万",
+          "reads": "13.9万",
           "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\r\n————————————————————\r\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
           "url": "https://www.qimao.com/shuku/2052700/",
           "category": "都市 都市高武",
           "status": "已完结",
           "word_count": "201.22万字",
-          "updated_at": "2026-04-02 18:35:10"
+          "updated_at": "2026-04-02 18:35:10",
+          "change": "down"
         },
         {
           "title": "打到北极圈了，你让我继承皇位？",
           "author": "橡皮泥",
-          "reads": "12.7万",
+          "reads": "12.5万",
           "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
           "url": "https://www.qimao.com/shuku/1864493/",
           "category": "历史 架空历史",
           "status": "已完结",
           "word_count": "304.01万字",
-          "updated_at": "2026-03-31 22:07:15"
+          "updated_at": "2026-03-31 22:07:15",
+          "change": "down"
         },
         {
           "title": "镇天神医",
           "author": "五杯咖啡",
-          "reads": "9.7万",
+          "reads": "9.6万",
           "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\r\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\r\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\r\n他，修仙强者，任你武力多强，都一剑可杀！\r\n他，医术逆天，阎王让你三更死，他能留你到五更！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
           "url": "https://www.qimao.com/shuku/1675640/",
           "category": "都市 都市高武",
           "status": "已完结",
           "word_count": "543.03万字",
-          "updated_at": "2025-12-15 11:18:20"
-        },
-        {
-          "title": "警报！龙国出现SSS级修仙者！",
-          "author": "紫枫",
-          "reads": "9.7万",
-          "intro": "原名《狂仙出狱》\n三年前，陈凡为了保护妹妹不得已出手伤人，锒铛入狱，却因祸得福拜仙道至尊为师，从此命运的齿轮开始转动……\n三年后，他是SSS级监狱人人敬畏的少尊！看着受尽欺凌的妹妹，命悬一线的养父，身处险境的未婚妻，陈凡誓要以八尺之躯，为他们撑起一片天！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
-          "url": "https://www.qimao.com/shuku/1812053/",
-          "category": "都市 都市高武",
-          "status": "已完结",
-          "word_count": "503.43万字",
-          "updated_at": "2026-10-01 00:02:31"
+          "updated_at": "2025-12-15 11:18:20",
+          "change": "down"
         },
         {
           "title": "无敌六皇子",
           "author": "梁山老鬼",
-          "reads": "9.7万",
+          "reads": "9.4万",
           "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\r\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\r\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\r\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\r\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
           "url": "https://www.qimao.com/shuku/1747899/",
           "category": "历史 架空历史",
           "status": "已完结",
           "word_count": "350.25万字",
-          "updated_at": "2025-03-03 00:03:29"
+          "updated_at": "2025-03-03 00:03:29",
+          "change": "down"
         },
         {
-          "title": "极道剑尊",
-          "author": "二十七杯酒",
-          "reads": "8.0万",
-          "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
-          "url": "https://www.qimao.com/shuku/219040/",
-          "category": "玄幻奇幻 东方玄幻",
-          "status": "连载中",
-          "word_count": "1033.04万字",
-          "updated_at": "2026-10-26 08:07:32",
-          "rank_tag": "飙升11名"
+          "title": "警报！龙国出现SSS级修仙者！",
+          "author": "紫枫",
+          "reads": "9.4万",
+          "intro": "原名《狂仙出狱》\n三年前，陈凡为了保护妹妹不得已出手伤人，锒铛入狱，却因祸得福拜仙道至尊为师，从此命运的齿轮开始转动……\n三年后，他是SSS级监狱人人敬畏的少尊！看着受尽欺凌的妹妹，命悬一线的养父，身处险境的未婚妻，陈凡誓要以八尺之躯，为他们撑起一片天！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
+          "url": "https://www.qimao.com/shuku/1812053/",
+          "category": "都市 都市高武",
+          "status": "已完结",
+          "word_count": "503.43万字",
+          "updated_at": "2026-10-01 00:02:31",
+          "change": "down"
         },
         {
           "title": "九转星辰诀",
           "author": "晨弈",
-          "reads": "7.7万",
+          "reads": "7.9万",
           "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\r\n一代战神，重生觉醒九世记忆。\r\n绝世天才，万古人杰？不过是我崛起的踏脚石！\r\n真爱守护，才是我心之所向。\r\n仗剑碾压万界，只为一心向前！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204938_360x480.jpg?time=1766104371",
           "url": "https://www.qimao.com/shuku/202636/",
@@ -509,27 +497,27 @@
         {
           "title": "民间诡闻实录",
           "author": "罗樵森",
-          "reads": "7.3万",
+          "reads": "7.8万",
           "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
           "url": "https://www.qimao.com/shuku/197091/",
           "category": "奇闻异事 奇门秘术",
           "status": "已完结",
           "word_count": "243.5万字",
-          "updated_at": "2021-10-12 11:14:06",
-          "change": "down"
+          "updated_at": "2021-10-12 11:14:06"
         },
         {
-          "title": "我和软萌女友的恋爱日常",
-          "author": "佛系和尚",
+          "title": "极道剑尊",
+          "author": "二十七杯酒",
           "reads": "7.0万",
-          "intro": "甜甜的治愈文，带你重回校园时代！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
-          "url": "https://www.qimao.com/shuku/214789/",
-          "category": "都市 热血校园",
-          "status": "已完结",
-          "word_count": "299.99万字",
-          "updated_at": "2023-02-18 08:11:26"
+          "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
+          "url": "https://www.qimao.com/shuku/219040/",
+          "category": "玄幻奇幻 东方玄幻",
+          "status": "连载中",
+          "word_count": "1033.66万字",
+          "updated_at": "2026-10-28 08:17:31",
+          "change": "down"
         },
         {
           "title": "重生2000：从追求青涩校花同桌开始",
@@ -547,7 +535,7 @@
         {
           "title": "刚抽中SSS级天赋，你跟我说游戏停服",
           "author": "吃猫的鱼仔",
-          "reads": "6.6万",
+          "reads": "6.7万",
           "intro": "云澈穿越到了游戏世界，还成了秦王府的赘婿。\r\n可他的命运似乎仅限于成为秦大小姐修炼双修之法的牺牲品。\r\n濒临死亡之际，天赋神来之手显威，云澈幸运获得了对方的双修之法。\r\n一夜之间，云澈修为突飞猛进，成为大元帝国所有男人羡慕嫉妒恨的焦点。\r\n对着秦王爷施展神来之手，抓取成功，恭喜获得上品身法，飞絮飘步。\r\n对着小姨子施展神来之手，抓取成功，恭喜获得中品防具，冰丝锦绣衣。\r\n对着秦女魔施展神来之手，抓取成功，恭喜获得100点经验。\r\n对着毒灵花施展神来之手，抓取成功，恭喜获得5点毒抗。\r\n对着巨灵龟施展神来之手，抓取成功，恭喜获得500点耐力。\r\n对着NPC老爷爷施展神来之手，抓取成功，恭喜获得转职卷轴（唯一）。\r\n云澈满脸狂喜，不用做任务就能成功转职，这比躺平还爽啊！\r\n某日，云澈偶然遇到了同班同学，他这才得知，原来是地球疯了，带着全人类融入到了妖魔与邪修肆虐的神武世界，艰难苟活。\r\n他只不过是比其他人早来那么一年时间而已......",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
           "url": "https://www.qimao.com/shuku/2027749/",
@@ -557,34 +545,22 @@
           "updated_at": "2026-09-06 08:21:09"
         },
         {
-          "title": "世子无双",
-          "author": "宁峥",
+          "title": "我和软萌女友的恋爱日常",
+          "author": "佛系和尚",
           "reads": "6.2万",
-          "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\r\n短剧《世子无双》原著，已上线。\r\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\r\n穿越架空历史，成为在青楼猝死的废材纨绔。\r\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\r\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\r\n但……\r\n番邦蛮夷想他死。\r\n世家门阀想他死。\r\n就连皇帝也做局想弄死他。\r\n卫渊很慌，但却不完全慌。\r\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\r\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
-          "url": "https://www.qimao.com/shuku/1860026/",
-          "category": "历史 架空历史",
+          "intro": "甜甜的治愈文，带你重回校园时代！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+          "url": "https://www.qimao.com/shuku/214789/",
+          "category": "都市 热血校园",
           "status": "已完结",
-          "word_count": "284万字",
-          "updated_at": "2026-03-08 01:17:14"
-        },
-        {
-          "title": "全球灾变之末日游戏",
-          "author": "我爱吃猫片",
-          "reads": "6.1万",
-          "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
-          "url": "https://www.qimao.com/shuku/219542/",
-          "category": "科幻 末世危机",
-          "status": "已完结",
-          "word_count": "502.3万字",
-          "updated_at": "2024-08-28 22:04:25",
+          "word_count": "299.99万字",
+          "updated_at": "2023-02-18 08:11:26",
           "change": "down"
         },
         {
           "title": "山野诡闻笔记",
           "author": "吴大胆",
-          "reads": "6.1万",
+          "reads": "6.0万",
           "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
           "url": "https://www.qimao.com/shuku/214783/",
@@ -597,27 +573,53 @@
         {
           "title": "一秒十级，从边关小卒开始横推",
           "author": "今天写书了吗",
-          "reads": "5.9万",
+          "reads": "6.0万",
           "intro": "一觉醒来，江北成为了边关小卒，蛮族不断入侵，危险重重！\r\n　　索幸觉醒了“功德面板”！\r\n　　只要斩杀罪孽缠身之辈，就能够获得功德点，提升武功！\r\n　　原本不知该如何存活下去的江北兴奋了。\r\n　　边关一带蛮族肆虐，贼人无数，杀敌就爆功德，这还不简单？\r\n　　看我一秒十级，直接无敌！\r\n　　【你击杀一名作恶多端的蛮兵，功德点+1！】\r\n　　【你击杀一名蛮族万夫长，功德点+1000！】\r\n　　……\r\n　　【发现武功·天罡正气刀，可提升，需功德100点，是否提升？】\r\n　　【发现武功·神象镇狱劲，可提升，需功德1000点，是否提升？】\r\n　　……\r\n　　【发现物品·天帝石像，可炼化，需功德10000点，是否炼化？】\r\n　　【注：炼化可得修真级武学·他化自在法】\r\n　　……\r\n　　江北踏着累累尸骨，一路杀穿。\r\n　　从边关小卒到北疆大将，再到大乾武神，无敌天上地下！\r\n　　那仙府之中，漫天神佛见到江北浑身金光璀璨，功德盖世，发出了惊叹：\r\n　　“我们口诵佛经，超度众生，尚且如此！”\r\n　　“你浑身沾满血腥，杀气腾腾，怎么就功德成圣了？！”",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/866/2596353_360x480.jpg?time=1758437337",
           "url": "https://www.qimao.com/shuku/2056131/",
           "category": "玄幻奇幻 东方玄幻",
           "status": "已完结",
           "word_count": "273.66万字",
-          "updated_at": "2026-10-17 21:31:07",
+          "updated_at": "2026-10-17 21:31:07"
+        },
+        {
+          "title": "全球灾变之末日游戏",
+          "author": "我爱吃猫片",
+          "reads": "6.0万",
+          "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
+          "url": "https://www.qimao.com/shuku/219542/",
+          "category": "科幻 末世危机",
+          "status": "已完结",
+          "word_count": "502.3万字",
+          "updated_at": "2024-08-28 22:04:25",
+          "change": "down"
+        },
+        {
+          "title": "世子无双",
+          "author": "宁峥",
+          "reads": "5.8万",
+          "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\r\n短剧《世子无双》原著，已上线。\r\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\r\n穿越架空历史，成为在青楼猝死的废材纨绔。\r\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\r\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\r\n但……\r\n番邦蛮夷想他死。\r\n世家门阀想他死。\r\n就连皇帝也做局想弄死他。\r\n卫渊很慌，但却不完全慌。\r\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\r\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
+          "url": "https://www.qimao.com/shuku/1860026/",
+          "category": "历史 架空历史",
+          "status": "已完结",
+          "word_count": "284万字",
+          "updated_at": "2026-03-08 01:17:14",
           "change": "down"
         },
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "author": "贪睡的虫儿",
-          "reads": "5.7万",
+          "reads": "5.6万",
           "intro": "本书又名《警报！真龙在世》\r\n \r\n 拥兵百万，北境之主。\r\n 叶天回到江城，调查父母死因。\r\n\r\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\r\n\r\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\r\n\r\n　　她们都成为了叶天最坚实的后盾。\r\n\r\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
           "url": "https://www.qimao.com/shuku/2060177/",
           "category": "都市 都市高手",
           "status": "已完结",
           "word_count": "269.31万字",
-          "updated_at": "2026-09-05 12:02:13"
+          "updated_at": "2026-09-05 12:02:13",
+          "change": "down"
         }
       ]
     }
